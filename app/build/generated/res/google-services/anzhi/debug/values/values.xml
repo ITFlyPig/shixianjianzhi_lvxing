@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">97959949310-aacqmcfgs36k8vb944kg863hss7vm8ae.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://travel-guide-63357.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">97959949310</string>
+    <string name="google_api_key" translatable="false">AIzaSyBBMHlzSH_epL2KlhNBwecccIEkeaY9W54</string>
+    <string name="google_app_id" translatable="false">1:97959949310:android:371e2f37935d5838</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBBMHlzSH_epL2KlhNBwecccIEkeaY9W54</string>
+    <string name="google_storage_bucket" translatable="false">travel-guide-63357.appspot.com</string>
+</resources>

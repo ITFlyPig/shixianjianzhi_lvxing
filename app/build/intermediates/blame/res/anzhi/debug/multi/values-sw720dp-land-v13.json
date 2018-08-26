@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/incremental/mergeAnzhiDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 58,
+                        "endOffset": 259
+                    }
+                }
+            }
+        ]
+    }
+]

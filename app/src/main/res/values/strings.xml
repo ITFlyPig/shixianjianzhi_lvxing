@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="skip">Skip</string>
+    <string name="bannerunit">ca-app-pub-4391447140300687/2271917650</string>
+    <string name="ad_unit_id">ca-app-pub-4391447140300687/3748650859</string>
+    <string name="openscreen">ca-app-pub-4391447140300687/5225384052</string>
+    <string name="Feedbacknotemil">No found mail account.Please add mail in settings of system；OK</string>
+    <string name="sharelocaltxt">Try out this tour guide app "Self Tour Guide For Beijing. https://itunes.apple.com/us/app/self-tour-guide-for-beijing/id1071690742?l=zh&amp;ls=1&amp;mt=8</string>
+    <!--收藏-->
+    <string name="share">share this app</string>
+    <string name="all">Favorites</string>
+    <string name="notcollection">No Favorites</string>
+    <!--收藏-->
+    <string name="delete">Delete</string>
+    <string name="cance">Cancel</string>
+    <string name="call">Call</string>
+    <string name="play_time">How long</string>
+
+    <string name="app_name">Singapore Travel Guide</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="edit">Edit</string>
+    <string name="gl">Guides</string>
+    <string name="metro">Metro</string>
+    <string name="collection">Favorites</string>
+    <string name="more">More</string>
+    <string name="collectionsuccess">Added to favorites.</string>
+    <string name="incollection">It has been in favorites.</string>
+    <string name="overview">Overviews</string>
+    <string name="attractions">Attractions</string>
+    <string name="hotel">Hotel</string>
+    <string name="restaurant">Restaurants</string>
+    <string name="shop">Shopping</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="Air_tickets">机票</string>
+
+
+    <string name="doorprice">Ticket</string>
+    <string name="shop_hours">Open time</string>
+
+    <string name="phone">Telephone</string>
+    <string name="address">Address</string>
+    <string name="subway">How we go there</string>
+    <string name="website">Website</string>
+    <string name="hotel_rating">Rating</string>
+    <string name="proposed_price">Price range</string>
+    <string name="comment">Rate this app</string>
+    <string name="Feedback">Feedback</string>
+    <string name="categories">Category</string>
+    <string name="okay">OK</string>
+    <string name="intro">Introuduction</string>
+    <string name="dialogtitle">No Internet Connection </string>
+    <string name="dialogcontent">You must be connected to the internet to visit some page.</string>
+    <string name="notnet">You\'re offline.</string>
+    <string name="cancecollection">It has been removed from favorites.</string>
+
+    <string name="downtitle">Free Trial PRO 7 Days</string>
+    <string name="one">No Ads.</string>
+    <string name="two">Totally use offline.</string>
+    <string name="three">No Connection required. No roaming charge.</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="terms_of_use">Terms of Use</string>
+</resources>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.SelfTourGuide.singapore">
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- Include next permission if you want to allow UIL to cache images on SD card -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.gmap.test.permission.MAPS_RECEIVE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <!-- 这个权限用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- 这个权限用于访问GPS定位 -->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+    <!-- 写入扩展存储，向扩展卡写入数据，用于写入离线定位数据 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+
+    <!--android:largeHeap="true"-->
+    <application
+        android:name=".base.BaseApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Black.NoTitleBar">
+
+        <activity
+            android:name=".ui.StartActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Black.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".fragment.FragmentMainActivity"
+            android:screenOrientation="portrait" ></activity>
+
+        <activity
+            android:name=".ui.OverViewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.AttractionsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.AttractionsInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.IntroductionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.HotelActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.RestaurantActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.ShoppingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.EntertainmentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.HotelInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.RestaurantInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.ShoppingInfoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.EntertainmentInfoActivity"
+            android:screenOrientation="portrait" />
+
+        <activity android:name=".ui.WebViewActivity"
+        android:screenOrientation="portrait" ></activity>
+
+        <activity android:name=".base.BaseActivity"></activity>
+
+        <!-- 友盟 -->
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="59479a198630f57804000c4b" />
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="${UMENG_CHANNEL_VALUE}" />
+
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+
+        <!-- facebook -->
+        <activity
+            android:name="com.facebook.ads.InterstitialAdActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
+        <activity
+            android:name="com.facebook.ads.AudienceNetworkActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
+        <!-- facebook -->
+        <!-- inmobi -->
+        <activity
+            android:name="com.inmobi.rendering.InMobiAdActivity"
+            android:configChanges="keyboardHidden|orientation|keyboard|smallestScreenSize|screenSize"
+            android:hardwareAccelerated="true"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <receiver
+            android:name="com.inmobi.commons.core.utilities.uid.ImIdShareBroadCastReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.inmobi.share.id" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.inmobi.signals.activityrecognition.ActivityRecognitionManager"
+            android:enabled="true" />
+        <!-- inmobi -->
+        <activity
+            android:name="com.vungle.publisher.VideoFullScreenAdActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="com.vungle.publisher.MraidFullScreenAdActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+
+        <activity android:name=".ui.DownProApp"
+            android:screenOrientation="portrait" ></activity>
+
+
+    </application>
+
+</manifest>

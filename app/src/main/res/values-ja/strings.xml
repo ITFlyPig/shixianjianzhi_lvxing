@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="cancecollection">It has been removed from favorites.</string>
+    <string name="proposed_price">価格帯</string>
+    <string name="app_name">シンガポール観光ガイド</string>
+    <string name="Feedbacknotemil">No found mail account.Please add mail in settings of system；OK</string>
+    <string name="sharelocaltxt">Try out this tour guide app "北京観光ガイド".https://itunes.apple.com/us/app/self-tour-guide-for-beijing/id1071690742?l=zh&amp;ls=1&amp;mt=8</string>
+    <string name="comment">このアプリケーションを評価</string>
+    <string name="Feedback">フィードバック</string>
+    <string name="share">このアプリを共有します</string>
+    <string name="notcollection">お気に入りてはない</string>
+    <string name="all">全体</string>
+    <string name="cance">キャンセル</string>
+    <string name="call">コール</string>
+    <string name="incollection">既に収集</string>
+    <string name="more">もっと</string>
+    <string name="collection">収集</string>
+    <string name="metro">地下鉄</string>
+    <string name="gl">攻略</string>
+    <string name="categories">カテゴリー</string>
+    <string name="hotel_rating">ホテルの星</string>
+    <string name="website">公式サイト</string>
+    <string name="subway">交通(地下鉄)</string>
+    <string name="address">番地</string>
+    <string name="phone">電話番号</string>
+    <string name="play_time">遊びのかかり</string>
+
+    <string name="shop_hours">営業時間</string>
+    <string name="doorprice">チケット</string>
+    <string name="overview">蓋覽</string>
+    <string name="attractions">観光名所</string>
+    <string name="hotel">ホテル</string>
+    <string name="restaurant">レストラン</string>
+    <string name="shop">買物</string>
+    <string name="entertainment">エンターテイメント</string>
+    <string name="intro">簡単な紹介</string>
+    <string name="downtitle">トライアル7日間無料</string>
+
+
+
+
+
+</resources>

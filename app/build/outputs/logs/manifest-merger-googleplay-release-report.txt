@@ -1,0 +1,748 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:2:1-150:12
+	package
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:4:22-65
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:5:22-66
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:6:5-73
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:6:22-70
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:7:5-84
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:7:22-81
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:8:5-94
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:8:22-91
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:9:22-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:10:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/d240f3d4547f01216bb946c1bcf1bfca0b6b5aa6/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.1] /Users/wangyuelin/.android/build-cache/4b373d593f96831098c7e285f0d25e90e9f70a13/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.1] /Users/wangyuelin/.android/build-cache/c05d41b012a88d129c30e07b3e897d92e5f8d022/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.1] /Users/wangyuelin/.android/build-cache/74c474750c02a0c8f8416597c631185501d935ba/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.1] /Users/wangyuelin/.android/build-cache/3944aeb4b38be1339b2768a990f7be121d090657/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] /Users/wangyuelin/.android/build-cache/d606df8e69483c0d51d8ccdd0d4f187c3b11d0f0/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.1] /Users/wangyuelin/.android/build-cache/3418f37cd334f3e7490866b39dad60e648badf9f/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] /Users/wangyuelin/.android/build-cache/08bab1f9010a96fdc3c57069d42b97800c258ed2/output/AndroidManifest.xml:20:5-66
+MERGED from [com.facebook.android:audience-network-sdk:4.99.1] /Users/wangyuelin/.android/build-cache/36bed8e0e59f78037eb7f656feadc3e4402c0aa1/output/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.1] /Users/wangyuelin/.android/build-cache/3780043b4adb7b597e4b666157ef40df97070433/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /Users/wangyuelin/.android/build-cache/8d693ae6b647dcfc27f7e1f8a306af67fcc5723b/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:12:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:14:5-79
+MERGED from [com.google.android.gms:play-services-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/d240f3d4547f01216bb946c1bcf1bfca0b6b5aa6/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.1] /Users/wangyuelin/.android/build-cache/c1d439b88cfbb355597b964cfcf2de51f1d919ab/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] /Users/wangyuelin/.android/build-cache/d606df8e69483c0d51d8ccdd0d4f187c3b11d0f0/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.1] /Users/wangyuelin/.android/build-cache/3418f37cd334f3e7490866b39dad60e648badf9f/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] /Users/wangyuelin/.android/build-cache/08bab1f9010a96fdc3c57069d42b97800c258ed2/output/AndroidManifest.xml:19:5-78
+MERGED from [com.facebook.android:audience-network-sdk:4.99.1] /Users/wangyuelin/.android/build-cache/36bed8e0e59f78037eb7f656feadc3e4402c0aa1/output/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.1] /Users/wangyuelin/.android/build-cache/3780043b4adb7b597e4b666157ef40df97070433/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /Users/wangyuelin/.android/build-cache/8d693ae6b647dcfc27f7e1f8a306af67fcc5723b/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:15:22-77
+uses-permission#com.gmap.test.permission.MAPS_RECEIVE
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:16:5-77
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:16:22-74
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:17:5-98
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:17:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:19:22-78
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:21:22-73
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:22:5-73
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:22:22-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:26:22-76
+application
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:31:5-148:19
+MERGED from [:android-ad-sdk:] /Users/wangyuelin/.android/build-cache/b035fcdc86614906f6ea1d3b29f42c92885a68b9/output/AndroidManifest.xml:11:5-21:19
+MERGED from [com.google.android.gms:play-services:11.0.1] /Users/wangyuelin/.android/build-cache/e615b78eb86dfa464813eb1edf08d39dd92b958d/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/d240f3d4547f01216bb946c1bcf1bfca0b6b5aa6/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.1] /Users/wangyuelin/.android/build-cache/4b373d593f96831098c7e285f0d25e90e9f70a13/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.1] /Users/wangyuelin/.android/build-cache/84aed0ad4c8284250f7fa618dc74433bc9dec1b9/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.1] /Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.0.1] /Users/wangyuelin/.android/build-cache/62670068f6f8274414dd5fb85857ad06eed7bee1/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/wangyuelin/.android/build-cache/b12f0e45a56d55c5a916b220365ced6038a03b13/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-config:11.0.1] /Users/wangyuelin/.android/build-cache/20f7461d50f5089e4d105f868691c92207e9717b/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.1] /Users/wangyuelin/.android/build-cache/c5ab7af403eab71ac40ed3e1d8cecd6b276c75e7/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:11.0.1] /Users/wangyuelin/.android/build-cache/c05d41b012a88d129c30e07b3e897d92e5f8d022/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:11.0.1] /Users/wangyuelin/.android/build-cache/2448c4b39cd7826f957edb7a9a4e7f141bdbc2c2/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.1] /Users/wangyuelin/.android/build-cache/c465d057a7dc6b79cccc6022a562b3f9823cf3a7/output/AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-messaging:11.0.1] /Users/wangyuelin/.android/build-cache/62716a5b0c9bc7e4c9f20601d2614970aaa9fb21/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.1] /Users/wangyuelin/.android/build-cache/09e5c629c82b83f2889c54fdbc839c0105e0d0c4/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.1] /Users/wangyuelin/.android/build-cache/c72581cf3bacf5a240d7a6964bd0726efeca6e5a/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.1] /Users/wangyuelin/.android/build-cache/c9360ed56e36b11c981ab4f093b819fc8c70a6ce/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.1] /Users/wangyuelin/.android/build-cache/74c474750c02a0c8f8416597c631185501d935ba/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.1] /Users/wangyuelin/.android/build-cache/1ed9b7c730cb748a5304fe8d988bd86a85dbd81b/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.1] /Users/wangyuelin/.android/build-cache/3944aeb4b38be1339b2768a990f7be121d090657/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.1] /Users/wangyuelin/.android/build-cache/178549e33c2ebc608fce90f24f0254f54ad2f1ea/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.1] /Users/wangyuelin/.android/build-cache/c1d439b88cfbb355597b964cfcf2de51f1d919ab/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.1] /Users/wangyuelin/.android/build-cache/8337ba3d77c1a492c3b0a16c5bb7caee12ddfc89/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.1] /Users/wangyuelin/.android/build-cache/7e8d3a4fcc4132841dfeee6aede0e9d5744dde07/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.1] /Users/wangyuelin/.android/build-cache/41427b99885b7b85f1769fc04776a1647be96034/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] /Users/wangyuelin/.android/build-cache/d606df8e69483c0d51d8ccdd0d4f187c3b11d0f0/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.1] /Users/wangyuelin/.android/build-cache/abf6fa0a903f52b739de2a4520bcd56fefab1b46/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.1] /Users/wangyuelin/.android/build-cache/3418f37cd334f3e7490866b39dad60e648badf9f/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.1] /Users/wangyuelin/.android/build-cache/2f53e600a9f58ccab1e15a0402e3cb7a45958d7e/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.1] /Users/wangyuelin/.android/build-cache/6706213e195046a81efcd4a02b0418c0c24f70a3/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.1] /Users/wangyuelin/.android/build-cache/3f3449df461f91162bcb9bb6663b7062e26b923d/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] /Users/wangyuelin/.android/build-cache/08bab1f9010a96fdc3c57069d42b97800c258ed2/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.1] /Users/wangyuelin/.android/build-cache/71d4a93609a53e09494bb3145aeb13d86e43b74a/output/AndroidManifest.xml:18:5-19
+MERGED from [com.facebook.android:audience-network-sdk:4.99.1] /Users/wangyuelin/.android/build-cache/36bed8e0e59f78037eb7f656feadc3e4402c0aa1/output/AndroidManifest.xml:14:5-18:19
+MERGED from [com.google.firebase:firebase-ads:10.0.1] /Users/wangyuelin/.android/build-cache/00d8b961b7800482f702c6685776f60199c701ad/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.1] /Users/wangyuelin/.android/build-cache/3780043b4adb7b597e4b666157ef40df97070433/output/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.1] /Users/wangyuelin/.android/build-cache/93900a6bf7aea501ad8df2b653f1feeec7d855ca/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.1] /Users/wangyuelin/.android/build-cache/1788ab10f4e2f09953b9bb30e92e4095426f5abf/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.1] /Users/wangyuelin/.android/build-cache/fc0c1b17c428e0e83e2bab85d494c40f0043d458/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.1] /Users/wangyuelin/.android/build-cache/f0557171bc58a69d075dee3d40e411496d70192e/output/AndroidManifest.xml:18:5-20:19
+MERGED from [:VungleAdapter:] /Users/wangyuelin/.android/build-cache/dfed5a9d6af263ecddfe63e790d8eeee80c1b61b/output/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:design:26.1.0] /Users/wangyuelin/.android/build-cache/df44f194bb5ff705a7e652e6fb909f82df5578cf/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/wangyuelin/.android/build-cache/85c3ebd299de040426a157f793599548f789fdbb/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/wangyuelin/.android/build-cache/92bc63c89d02085ef906e1ab9e510a7f405c768e/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/wangyuelin/.android/build-cache/e4c15096bb92df9fb99ee2156530f2edb3decaca/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/wangyuelin/.android/build-cache/56149d475761e9ffcfbcbfad4fdc33ff4fb8bb23/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.billingclient:billing:1.0] /Users/wangyuelin/.android/build-cache/685b195b8dac384d2c003ed1e1d29a6081e36dba/output/AndroidManifest.xml:11:5-16:19
+MERGED from [com.google.firebase:firebase-core:11.0.1] /Users/wangyuelin/.android/build-cache/efc8442c01869510d1148e3c8e3b65257d99054e/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /Users/wangyuelin/.android/build-cache/8d693ae6b647dcfc27f7e1f8a306af67fcc5723b/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.1] /Users/wangyuelin/.android/build-cache/38a976a1e443551589855579ae3ad8227b73f017/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] /Users/wangyuelin/.android/build-cache/1d37839bdc0100ed89d5f7a1b1b83ecb37cf0ca5/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] /Users/wangyuelin/.android/build-cache/a8bc22604a7571fc8a02762dab3f42c9d72aa112/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/wangyuelin/.android/build-cache/6a95e9634d3281cef2414d7faa00fab87f1e6751/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/wangyuelin/.android/build-cache/fea9c793c7f462719b8ccb1436a58060150187a0/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/wangyuelin/.android/build-cache/0d8062c7f8e8b319acef728619e14074b459561e/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/wangyuelin/.android/build-cache/400aaf160e473e5c028a31aa5658925677451678/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/wangyuelin/.android/build-cache/f894e3775b65457461debaff205a907f8070f757/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/wangyuelin/.android/build-cache/5e5bb24a6e7609a72f88139a09189fdb5eaa1668/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/wangyuelin/.android/build-cache/45ea8d29facc682040280c4d9f4e10575145f34f/output/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:35:9-41
+	android:allowBackup
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:33:9-35
+	android:icon
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:34:9-43
+	android:theme
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:36:9-62
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:32:9-45
+activity#com.SelfTourGuide.singapore.ui.StartActivity
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:38:9-47:20
+	android:label
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:40:13-45
+	android:theme
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:41:13-66
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:39:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:45:27-74
+activity#com.SelfTourGuide.singapore.fragment.FragmentMainActivity
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:49:9-50:62
+	android:screenOrientation
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:49:19-64
+activity#com.SelfTourGuide.singapore.ui.OverViewActivity
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:52:9-54:52
+	android:screenOrientation
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:54:13-49
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:53:13-48
+activity#com.SelfTourGuide.singapore.ui.AttractionsActivity
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:55:9-57:52
+	android:screenOrientation
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:57:13-49
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:56:13-51
+activity#com.SelfTourGuide.singapore.ui.AttractionsInfoActivity
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:58:9-60:52
+	android:screenOrientation
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:60:13-49
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:59:13-55
+activity#com.SelfTourGuide.singapore.ui.IntroductionActivity
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:61:9-63:52
+	android:screenOrientation
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:63:13-49
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:62:13-52
+activity#com.SelfTourGuide.singapore.ui.HotelActivity
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:64:9-66:52
+	android:screenOrientation
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:66:13-49
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:65:13-45
+activity#com.SelfTourGuide.singapore.ui.RestaurantActivity
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:67:9-69:52
+	android:screenOrientation
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:69:13-49
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:68:13-50
+activity#com.SelfTourGuide.singapore.ui.ShoppingActivity
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:70:9-72:52
+	android:screenOrientation
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:72:13-49
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:71:13-48
+activity#com.SelfTourGuide.singapore.ui.EntertainmentActivity
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:73:9-75:52
+	android:screenOrientation
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:75:13-49
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:74:13-53
+activity#com.SelfTourGuide.singapore.ui.HotelInfoActivity
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:76:9-78:52
+	android:screenOrientation
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:78:13-49
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:77:13-49
+activity#com.SelfTourGuide.singapore.ui.RestaurantInfoActivity
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:79:9-81:52
+	android:screenOrientation
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:81:13-49
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:80:13-54
+activity#com.SelfTourGuide.singapore.ui.ShoppingInfoActivity
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:82:9-84:52
+	android:screenOrientation
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:84:13-49
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:83:13-52
+activity#com.SelfTourGuide.singapore.ui.EntertainmentInfoActivity
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:85:9-87:52
+	android:screenOrientation
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:87:13-49
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:86:13-57
+activity#com.SelfTourGuide.singapore.ui.WebViewActivity
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:89:9-90:58
+	android:screenOrientation
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:90:9-45
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:89:19-53
+activity#com.SelfTourGuide.singapore.base.BaseActivity
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:92:9-64
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:92:19-52
+meta-data#UMENG_APPKEY
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:95:9-97:56
+	android:value
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:97:13-53
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:96:13-40
+meta-data#UMENG_CHANNEL
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:98:9-100:54
+	android:value
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:100:13-51
+		INJECTED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:99:13-41
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:102:9-105:64
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.1] /Users/wangyuelin/.android/build-cache/3780043b4adb7b597e4b666157ef40df97070433/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:104:13-122
+	android:theme
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:105:13-61
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:103:13-65
+activity#com.facebook.ads.InterstitialAdActivity
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:108:9-110:77
+	android:configChanges
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:110:13-74
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:109:13-67
+activity#com.facebook.ads.AudienceNetworkActivity
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:111:9-113:77
+MERGED from [com.facebook.android:audience-network-sdk:4.99.1] /Users/wangyuelin/.android/build-cache/36bed8e0e59f78037eb7f656feadc3e4402c0aa1/output/AndroidManifest.xml:15:9-17:77
+	android:configChanges
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:113:13-74
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:112:13-68
+activity#com.inmobi.rendering.InMobiAdActivity
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:116:9-120:75
+	android:hardwareAccelerated
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:119:13-47
+	android:configChanges
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:118:13-102
+	android:theme
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:120:13-72
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:117:13-65
+receiver#com.inmobi.commons.core.utilities.uid.ImIdShareBroadCastReceiver
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:122:9-129:20
+	android:enabled
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:124:13-35
+	android:exported
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:125:13-36
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:123:13-92
+intent-filter#com.inmobi.share.id
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:126:13-128:29
+action#com.inmobi.share.id
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:127:17-62
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:127:25-59
+service#com.inmobi.signals.activityrecognition.ActivityRecognitionManager
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:131:9-133:38
+	android:enabled
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:133:13-35
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:132:13-93
+activity#com.vungle.publisher.VideoFullScreenAdActivity
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:135:9-138:74
+	android:configChanges
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:137:13-106
+	android:theme
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:138:13-71
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:136:13-74
+activity#com.vungle.publisher.MraidFullScreenAdActivity
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:139:9-142:86
+	android:configChanges
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:141:13-106
+	android:theme
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:142:13-83
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:140:13-74
+activity#com.SelfTourGuide.singapore.ui.DownProApp
+ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:144:9-145:62
+	android:screenOrientation
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:145:13-49
+	android:name
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:144:19-48
+uses-sdk
+INJECTED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] /Users/wangyuelin/.android/build-cache/1ade10054f1ff98c641866f93a3cb3b7f0651d39/output/AndroidManifest.xml:18:5-42
+MERGED from [com.davemorrissey.labs:library:3.6.0] /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/library/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [:android-ad-sdk:] /Users/wangyuelin/.android/build-cache/b035fcdc86614906f6ea1d3b29f42c92885a68b9/output/AndroidManifest.xml:7:5-9:41
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.4] /Users/wangyuelin/.android/build-cache/3637f5a10dd32ce5219d686acdc8520f87115b95/output/AndroidManifest.xml:3:3-40
+MERGED from [com.google.android.gms:play-services:11.0.1] /Users/wangyuelin/.android/build-cache/e615b78eb86dfa464813eb1edf08d39dd92b958d/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/d240f3d4547f01216bb946c1bcf1bfca0b6b5aa6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.1] /Users/wangyuelin/.android/build-cache/4b373d593f96831098c7e285f0d25e90e9f70a13/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.1] /Users/wangyuelin/.android/build-cache/fdba019156e246bda9f3ef0268459f2b6262211f/output/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.1] /Users/wangyuelin/.android/build-cache/84aed0ad4c8284250f7fa618dc74433bc9dec1b9/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.1] /Users/wangyuelin/.android/build-cache/e2556b104f82a37b48c807496236f77e474281f3/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.1] /Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.1] /Users/wangyuelin/.android/build-cache/62670068f6f8274414dd5fb85857ad06eed7bee1/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/wangyuelin/.android/build-cache/b12f0e45a56d55c5a916b220365ced6038a03b13/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.1] /Users/wangyuelin/.android/build-cache/20f7461d50f5089e4d105f868691c92207e9717b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.1] /Users/wangyuelin/.android/build-cache/c5ab7af403eab71ac40ed3e1d8cecd6b276c75e7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.1] /Users/wangyuelin/.android/build-cache/c05d41b012a88d129c30e07b3e897d92e5f8d022/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.1] /Users/wangyuelin/.android/build-cache/2448c4b39cd7826f957edb7a9a4e7f141bdbc2c2/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.1] /Users/wangyuelin/.android/build-cache/59ac251a661ccf8c5edd162f2cb88d23ebd94ef5/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.1] /Users/wangyuelin/.android/build-cache/59b01c84143c8d39fe11295617558c0bfb519535/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.1] /Users/wangyuelin/.android/build-cache/c465d057a7dc6b79cccc6022a562b3f9823cf3a7/output/AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-messaging:11.0.1] /Users/wangyuelin/.android/build-cache/62716a5b0c9bc7e4c9f20601d2614970aaa9fb21/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.1] /Users/wangyuelin/.android/build-cache/ed6d0a46cc0a5843911191962f048521af618093/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.1] /Users/wangyuelin/.android/build-cache/1bf7d1911c05f6172424f3e5d4f25ca65dd1f933/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.1] /Users/wangyuelin/.android/build-cache/09e5c629c82b83f2889c54fdbc839c0105e0d0c4/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.1] /Users/wangyuelin/.android/build-cache/c72581cf3bacf5a240d7a6964bd0726efeca6e5a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.1] /Users/wangyuelin/.android/build-cache/c9360ed56e36b11c981ab4f093b819fc8c70a6ce/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.1] /Users/wangyuelin/.android/build-cache/74c474750c02a0c8f8416597c631185501d935ba/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.1] /Users/wangyuelin/.android/build-cache/1ed9b7c730cb748a5304fe8d988bd86a85dbd81b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.1] /Users/wangyuelin/.android/build-cache/3944aeb4b38be1339b2768a990f7be121d090657/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.1] /Users/wangyuelin/.android/build-cache/ad120cc7fbe6f3513f54d7f4601b1f660a428659/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.1] /Users/wangyuelin/.android/build-cache/178549e33c2ebc608fce90f24f0254f54ad2f1ea/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.1] /Users/wangyuelin/.android/build-cache/c1d439b88cfbb355597b964cfcf2de51f1d919ab/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.1] /Users/wangyuelin/.android/build-cache/8337ba3d77c1a492c3b0a16c5bb7caee12ddfc89/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.1] /Users/wangyuelin/.android/build-cache/7e8d3a4fcc4132841dfeee6aede0e9d5744dde07/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.1] /Users/wangyuelin/.android/build-cache/41427b99885b7b85f1769fc04776a1647be96034/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.1] /Users/wangyuelin/.android/build-cache/97109a1ad9ef50593f0158475ee38f8551477f29/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] /Users/wangyuelin/.android/build-cache/d606df8e69483c0d51d8ccdd0d4f187c3b11d0f0/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.1] /Users/wangyuelin/.android/build-cache/abf6fa0a903f52b739de2a4520bcd56fefab1b46/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.1] /Users/wangyuelin/.android/build-cache/3418f37cd334f3e7490866b39dad60e648badf9f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.1] /Users/wangyuelin/.android/build-cache/2f53e600a9f58ccab1e15a0402e3cb7a45958d7e/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.1] /Users/wangyuelin/.android/build-cache/6706213e195046a81efcd4a02b0418c0c24f70a3/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.1] /Users/wangyuelin/.android/build-cache/efb48a507b6f303996598c3467f7d200e4b6b2e6/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.1] /Users/wangyuelin/.android/build-cache/3f3449df461f91162bcb9bb6663b7062e26b923d/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] /Users/wangyuelin/.android/build-cache/08bab1f9010a96fdc3c57069d42b97800c258ed2/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.1] /Users/wangyuelin/.android/build-cache/71d4a93609a53e09494bb3145aeb13d86e43b74a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.facebook.android:audience-network-sdk:4.99.1] /Users/wangyuelin/.android/build-cache/36bed8e0e59f78037eb7f656feadc3e4402c0aa1/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] /Users/wangyuelin/.android/build-cache/c0d39ea2234b0cf07c01fb51dd6e2283362fd052/output/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] /Users/wangyuelin/.android/build-cache/0587ea8cedb1d48396ff7ef13a3cf8f95d64b385/output/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.ads.mediation:facebook:4.23.0.0] /Users/wangyuelin/.android/build-cache/1bcb8dbae6bd7aa846b19c8297fac5be6e84e3b9/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.firebase:firebase-ads:10.0.1] /Users/wangyuelin/.android/build-cache/00d8b961b7800482f702c6685776f60199c701ad/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:11.0.1] /Users/wangyuelin/.android/build-cache/86f76cbff7e8a1edf5a17e05eed9192c96382408/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.1] /Users/wangyuelin/.android/build-cache/3780043b4adb7b597e4b666157ef40df97070433/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.1] /Users/wangyuelin/.android/build-cache/93900a6bf7aea501ad8df2b653f1feeec7d855ca/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.1] /Users/wangyuelin/.android/build-cache/1788ab10f4e2f09953b9bb30e92e4095426f5abf/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.1] /Users/wangyuelin/.android/build-cache/fc0c1b17c428e0e83e2bab85d494c40f0043d458/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.1] /Users/wangyuelin/.android/build-cache/f0557171bc58a69d075dee3d40e411496d70192e/output/AndroidManifest.xml:17:5-43
+MERGED from [:VungleAdapter:] /Users/wangyuelin/.android/build-cache/dfed5a9d6af263ecddfe63e790d8eeee80c1b61b/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.1.0] /Users/wangyuelin/.android/build-cache/df44f194bb5ff705a7e652e6fb909f82df5578cf/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/wangyuelin/.android/build-cache/85c3ebd299de040426a157f793599548f789fdbb/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/wangyuelin/.android/build-cache/92bc63c89d02085ef906e1ab9e510a7f405c768e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/wangyuelin/.android/build-cache/e4c15096bb92df9fb99ee2156530f2edb3decaca/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/wangyuelin/.android/build-cache/56149d475761e9ffcfbcbfad4fdc33ff4fb8bb23/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.billingclient:billing:1.0] /Users/wangyuelin/.android/build-cache/685b195b8dac384d2c003ed1e1d29a6081e36dba/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:11.0.1] /Users/wangyuelin/.android/build-cache/efc8442c01869510d1148e3c8e3b65257d99054e/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /Users/wangyuelin/.android/build-cache/8d693ae6b647dcfc27f7e1f8a306af67fcc5723b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.1] /Users/wangyuelin/.android/build-cache/38a976a1e443551589855579ae3ad8227b73f017/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] /Users/wangyuelin/.android/build-cache/1d37839bdc0100ed89d5f7a1b1b83ecb37cf0ca5/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] /Users/wangyuelin/.android/build-cache/a8bc22604a7571fc8a02762dab3f42c9d72aa112/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.1.0] /Users/wangyuelin/.android/build-cache/6a95e9634d3281cef2414d7faa00fab87f1e6751/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/wangyuelin/.android/build-cache/fea9c793c7f462719b8ccb1436a58060150187a0/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/wangyuelin/.android/build-cache/0d8062c7f8e8b319acef728619e14074b459561e/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/wangyuelin/.android/build-cache/400aaf160e473e5c028a31aa5658925677451678/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/wangyuelin/.android/build-cache/f894e3775b65457461debaff205a907f8070f757/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/wangyuelin/.android/build-cache/5e5bb24a6e7609a72f88139a09189fdb5eaa1668/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/wangyuelin/.android/build-cache/45ea8d29facc682040280c4d9f4e10575145f34f/output/AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/wangyuelin/.android/build-cache/df44f194bb5ff705a7e652e6fb909f82df5578cf/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml
+activity#com.millennialmedia.internal.MMActivity
+ADDED from [:android-ad-sdk:] /Users/wangyuelin/.android/build-cache/b035fcdc86614906f6ea1d3b29f42c92885a68b9/output/AndroidManifest.xml:12:9-16:58
+	android:label
+		ADDED from [:android-ad-sdk:] /Users/wangyuelin/.android/build-cache/b035fcdc86614906f6ea1d3b29f42c92885a68b9/output/AndroidManifest.xml:15:13-53
+	android:configChanges
+		ADDED from [:android-ad-sdk:] /Users/wangyuelin/.android/build-cache/b035fcdc86614906f6ea1d3b29f42c92885a68b9/output/AndroidManifest.xml:14:13-59
+	android:theme
+		ADDED from [:android-ad-sdk:] /Users/wangyuelin/.android/build-cache/b035fcdc86614906f6ea1d3b29f42c92885a68b9/output/AndroidManifest.xml:16:13-55
+	android:name
+		ADDED from [:android-ad-sdk:] /Users/wangyuelin/.android/build-cache/b035fcdc86614906f6ea1d3b29f42c92885a68b9/output/AndroidManifest.xml:13:13-67
+activity#com.millennialmedia.internal.MMIntentWrapperActivity
+ADDED from [:android-ad-sdk:] /Users/wangyuelin/.android/build-cache/b035fcdc86614906f6ea1d3b29f42c92885a68b9/output/AndroidManifest.xml:17:9-20:35
+	android:label
+		ADDED from [:android-ad-sdk:] /Users/wangyuelin/.android/build-cache/b035fcdc86614906f6ea1d3b29f42c92885a68b9/output/AndroidManifest.xml:20:13-32
+	android:configChanges
+		ADDED from [:android-ad-sdk:] /Users/wangyuelin/.android/build-cache/b035fcdc86614906f6ea1d3b29f42c92885a68b9/output/AndroidManifest.xml:19:13-59
+	android:name
+		ADDED from [:android-ad-sdk:] /Users/wangyuelin/.android/build-cache/b035fcdc86614906f6ea1d3b29f42c92885a68b9/output/AndroidManifest.xml:18:13-80
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/d240f3d4547f01216bb946c1bcf1bfca0b6b5aa6/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.1] /Users/wangyuelin/.android/build-cache/3418f37cd334f3e7490866b39dad60e648badf9f/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /Users/wangyuelin/.android/build-cache/8d693ae6b647dcfc27f7e1f8a306af67fcc5723b/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/d240f3d4547f01216bb946c1bcf1bfca0b6b5aa6/output/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] /Users/wangyuelin/.android/build-cache/4b373d593f96831098c7e285f0d25e90e9f70a13/output/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] /Users/wangyuelin/.android/build-cache/4b373d593f96831098c7e285f0d25e90e9f70a13/output/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] /Users/wangyuelin/.android/build-cache/4b373d593f96831098c7e285f0d25e90e9f70a13/output/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] /Users/wangyuelin/.android/build-cache/4b373d593f96831098c7e285f0d25e90e9f70a13/output/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] /Users/wangyuelin/.android/build-cache/4b373d593f96831098c7e285f0d25e90e9f70a13/output/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] /Users/wangyuelin/.android/build-cache/4b373d593f96831098c7e285f0d25e90e9f70a13/output/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] /Users/wangyuelin/.android/build-cache/4b373d593f96831098c7e285f0d25e90e9f70a13/output/AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] /Users/wangyuelin/.android/build-cache/4b373d593f96831098c7e285f0d25e90e9f70a13/output/AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] /Users/wangyuelin/.android/build-cache/4b373d593f96831098c7e285f0d25e90e9f70a13/output/AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/wangyuelin/.android/build-cache/84aed0ad4c8284250f7fa618dc74433bc9dec1b9/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/wangyuelin/.android/build-cache/84aed0ad4c8284250f7fa618dc74433bc9dec1b9/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/wangyuelin/.android/build-cache/84aed0ad4c8284250f7fa618dc74433bc9dec1b9/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/wangyuelin/.android/build-cache/84aed0ad4c8284250f7fa618dc74433bc9dec1b9/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/wangyuelin/.android/build-cache/84aed0ad4c8284250f7fa618dc74433bc9dec1b9/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/wangyuelin/.android/build-cache/84aed0ad4c8284250f7fa618dc74433bc9dec1b9/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/wangyuelin/.android/build-cache/84aed0ad4c8284250f7fa618dc74433bc9dec1b9/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/wangyuelin/.android/build-cache/84aed0ad4c8284250f7fa618dc74433bc9dec1b9/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /Users/wangyuelin/.android/build-cache/84aed0ad4c8284250f7fa618dc74433bc9dec1b9/output/AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.1] /Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.1] /Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.1] /Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.1] /Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.1] /Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.1] /Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.1] /Users/wangyuelin/.android/build-cache/62716a5b0c9bc7e4c9f20601d2614970aaa9fb21/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.1] /Users/wangyuelin/.android/build-cache/62716a5b0c9bc7e4c9f20601d2614970aaa9fb21/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.1] /Users/wangyuelin/.android/build-cache/62716a5b0c9bc7e4c9f20601d2614970aaa9fb21/output/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.1] /Users/wangyuelin/.android/build-cache/62716a5b0c9bc7e4c9f20601d2614970aaa9fb21/output/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.1] /Users/wangyuelin/.android/build-cache/62716a5b0c9bc7e4c9f20601d2614970aaa9fb21/output/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.1] /Users/wangyuelin/.android/build-cache/62716a5b0c9bc7e4c9f20601d2614970aaa9fb21/output/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.1] /Users/wangyuelin/.android/build-cache/62716a5b0c9bc7e4c9f20601d2614970aaa9fb21/output/AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.0.1] /Users/wangyuelin/.android/build-cache/74c474750c02a0c8f8416597c631185501d935ba/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.1] /Users/wangyuelin/.android/build-cache/3944aeb4b38be1339b2768a990f7be121d090657/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.0.1] /Users/wangyuelin/.android/build-cache/74c474750c02a0c8f8416597c631185501d935ba/output/AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] /Users/wangyuelin/.android/build-cache/d606df8e69483c0d51d8ccdd0d4f187c3b11d0f0/output/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] /Users/wangyuelin/.android/build-cache/d606df8e69483c0d51d8ccdd0d4f187c3b11d0f0/output/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] /Users/wangyuelin/.android/build-cache/d606df8e69483c0d51d8ccdd0d4f187c3b11d0f0/output/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] /Users/wangyuelin/.android/build-cache/d606df8e69483c0d51d8ccdd0d4f187c3b11d0f0/output/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] /Users/wangyuelin/.android/build-cache/d606df8e69483c0d51d8ccdd0d4f187c3b11d0f0/output/AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] /Users/wangyuelin/.android/build-cache/d606df8e69483c0d51d8ccdd0d4f187c3b11d0f0/output/AndroidManifest.xml:25:94-117
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] /Users/wangyuelin/.android/build-cache/d606df8e69483c0d51d8ccdd0d4f187c3b11d0f0/output/AndroidManifest.xml:25:118-142
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] /Users/wangyuelin/.android/build-cache/d606df8e69483c0d51d8ccdd0d4f187c3b11d0f0/output/AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] /Users/wangyuelin/.android/build-cache/d606df8e69483c0d51d8ccdd0d4f187c3b11d0f0/output/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] /Users/wangyuelin/.android/build-cache/d606df8e69483c0d51d8ccdd0d4f187c3b11d0f0/output/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] /Users/wangyuelin/.android/build-cache/d606df8e69483c0d51d8ccdd0d4f187c3b11d0f0/output/AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] /Users/wangyuelin/.android/build-cache/d606df8e69483c0d51d8ccdd0d4f187c3b11d0f0/output/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] /Users/wangyuelin/.android/build-cache/d606df8e69483c0d51d8ccdd0d4f187c3b11d0f0/output/AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] /Users/wangyuelin/.android/build-cache/d606df8e69483c0d51d8ccdd0d4f187c3b11d0f0/output/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] /Users/wangyuelin/.android/build-cache/d606df8e69483c0d51d8ccdd0d4f187c3b11d0f0/output/AndroidManifest.xml:30:27-75
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.1] /Users/wangyuelin/.android/build-cache/08bab1f9010a96fdc3c57069d42b97800c258ed2/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.1] /Users/wangyuelin/.android/build-cache/08bab1f9010a96fdc3c57069d42b97800c258ed2/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.1] /Users/wangyuelin/.android/build-cache/08bab1f9010a96fdc3c57069d42b97800c258ed2/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.1] /Users/wangyuelin/.android/build-cache/f0557171bc58a69d075dee3d40e411496d70192e/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /Users/wangyuelin/.android/build-cache/f0557171bc58a69d075dee3d40e411496d70192e/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /Users/wangyuelin/.android/build-cache/f0557171bc58a69d075dee3d40e411496d70192e/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /Users/wangyuelin/.android/build-cache/f0557171bc58a69d075dee3d40e411496d70192e/output/AndroidManifest.xml:19:19-85
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/wangyuelin/.android/build-cache/df44f194bb5ff705a7e652e6fb909f82df5578cf/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/wangyuelin/.android/build-cache/85c3ebd299de040426a157f793599548f789fdbb/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/wangyuelin/.android/build-cache/92bc63c89d02085ef906e1ab9e510a7f405c768e/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/wangyuelin/.android/build-cache/e4c15096bb92df9fb99ee2156530f2edb3decaca/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/wangyuelin/.android/build-cache/56149d475761e9ffcfbcbfad4fdc33ff4fb8bb23/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/wangyuelin/.android/build-cache/6a95e9634d3281cef2414d7faa00fab87f1e6751/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/wangyuelin/.android/build-cache/fea9c793c7f462719b8ccb1436a58060150187a0/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/wangyuelin/.android/build-cache/0d8062c7f8e8b319acef728619e14074b459561e/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/wangyuelin/.android/build-cache/400aaf160e473e5c028a31aa5658925677451678/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/wangyuelin/.android/build-cache/f894e3775b65457461debaff205a907f8070f757/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/wangyuelin/.android/build-cache/5e5bb24a6e7609a72f88139a09189fdb5eaa1668/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/wangyuelin/.android/build-cache/df44f194bb5ff705a7e652e6fb909f82df5578cf/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/wangyuelin/.android/build-cache/df44f194bb5ff705a7e652e6fb909f82df5578cf/output/AndroidManifest.xml:27:13-51
+uses-permission#com.android.vending.BILLING
+ADDED from [com.android.billingclient:billing:1.0] /Users/wangyuelin/.android/build-cache/685b195b8dac384d2c003ed1e1d29a6081e36dba/output/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from [com.android.billingclient:billing:1.0] /Users/wangyuelin/.android/build-cache/685b195b8dac384d2c003ed1e1d29a6081e36dba/output/AndroidManifest.xml:9:22-64
+activity#com.android.billingclient.api.ProxyBillingActivity
+ADDED from [com.android.billingclient:billing:1.0] /Users/wangyuelin/.android/build-cache/685b195b8dac384d2c003ed1e1d29a6081e36dba/output/AndroidManifest.xml:12:9-15:75
+	android:configChanges
+		ADDED from [com.android.billingclient:billing:1.0] /Users/wangyuelin/.android/build-cache/685b195b8dac384d2c003ed1e1d29a6081e36dba/output/AndroidManifest.xml:14:13-96
+	android:theme
+		ADDED from [com.android.billingclient:billing:1.0] /Users/wangyuelin/.android/build-cache/685b195b8dac384d2c003ed1e1d29a6081e36dba/output/AndroidManifest.xml:15:13-72
+	android:name
+		ADDED from [com.android.billingclient:billing:1.0] /Users/wangyuelin/.android/build-cache/685b195b8dac384d2c003ed1e1d29a6081e36dba/output/AndroidManifest.xml:13:13-78
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /Users/wangyuelin/.android/build-cache/8d693ae6b647dcfc27f7e1f8a306af67fcc5723b/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /Users/wangyuelin/.android/build-cache/8d693ae6b647dcfc27f7e1f8a306af67fcc5723b/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] /Users/wangyuelin/.android/build-cache/771b8c6e510dc966e906e2aa4d7b0fe00d9cdda8/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.1] /Users/wangyuelin/.android/build-cache/38a976a1e443551589855579ae3ad8227b73f017/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.1] /Users/wangyuelin/.android/build-cache/38a976a1e443551589855579ae3ad8227b73f017/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.1] /Users/wangyuelin/.android/build-cache/38a976a1e443551589855579ae3ad8227b73f017/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.1] /Users/wangyuelin/.android/build-cache/38a976a1e443551589855579ae3ad8227b73f017/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.1] /Users/wangyuelin/.android/build-cache/38a976a1e443551589855579ae3ad8227b73f017/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.1] /Users/wangyuelin/.android/build-cache/a8bc22604a7571fc8a02762dab3f42c9d72aa112/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] /Users/wangyuelin/.android/build-cache/a8bc22604a7571fc8a02762dab3f42c9d72aa112/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] /Users/wangyuelin/.android/build-cache/a8bc22604a7571fc8a02762dab3f42c9d72aa112/output/AndroidManifest.xml:20:20-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/wangyuelin/.android/build-cache/45ea8d29facc682040280c4d9f4e10575145f34f/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/wangyuelin/.android/build-cache/45ea8d29facc682040280c4d9f4e10575145f34f/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/wangyuelin/.android/build-cache/45ea8d29facc682040280c4d9f4e10575145f34f/output/AndroidManifest.xml:26:13-58

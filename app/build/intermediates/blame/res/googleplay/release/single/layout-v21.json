@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/5e5bb24a6e7609a72f88139a09189fdb5eaa1668/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/5e5bb24a6e7609a72f88139a09189fdb5eaa1668/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/layout-v21/notification_action.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/5e5bb24a6e7609a72f88139a09189fdb5eaa1668/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/7e8d3a4fcc4132841dfeee6aede0e9d5744dde07/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/5e5bb24a6e7609a72f88139a09189fdb5eaa1668/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

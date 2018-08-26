@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background">#ffffff</color>
+    <color name="toolbarbackground">#FFDEAD</color>
+
+    <color name="navigation_line">#B2B2B2</color>
+    <color name="phonetext">#1F98E7</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="appbg">#f6f6f6</color>
+    <color name="title">#0499ea</color>
+    <color name="white">#ffffff</color>
+    <color name="gray">#dfdfdf</color>
+    <color name="black">#000000</color>
+    <color name="topbottomline">#5c5c5c</color>
+    <color name="applistline">#e3dfdf</color>
+    <color name="red_normal">#FB0303</color>
+    <color name="red_pressed">#FF6666</color>
+    <color name="green_normal">#37C000</color>
+    <color name="green_pressed">#30A070</color>
+    <color name="purple_normal">#9932CC</color>
+    <color name="purple_pressed">#9F79EE</color>
+    <color name="itempressbg">#f3f3f3</color>
+    <color name="alpha">#00000000</color>
+    <color name="contentcolor">#888888</color>
+</resources>

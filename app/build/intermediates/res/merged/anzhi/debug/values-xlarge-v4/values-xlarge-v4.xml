@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="abc_dialog_fixed_height_major" type="dimen">60%</item>
+    <item name="abc_dialog_fixed_height_minor" type="dimen">90%</item>
+    <item name="abc_dialog_fixed_width_major" type="dimen">50%</item>
+    <item name="abc_dialog_fixed_width_minor" type="dimen">70%</item>
+    <item name="abc_dialog_min_width_major" type="dimen">45%</item>
+    <item name="abc_dialog_min_width_minor" type="dimen">72%</item>
+    <dimen name="mmadsdk_ad_button_height">75dp</dimen>
+    <dimen name="mmadsdk_ad_button_padding_left">30dp</dimen>
+    <dimen name="mmadsdk_ad_button_width">75dp</dimen>
+    <dimen name="mmadsdk_control_button_height">60dp</dimen>
+    <dimen name="mmadsdk_control_button_width">60dp</dimen>
+    <dimen name="mmadsdk_lightbox_bottom_margin">20dp</dimen>
+    <dimen name="mmadsdk_lightbox_fullscreen_companion_top_margin">200dp</dimen>
+    <dimen name="mmadsdk_lightbox_height">180dp</dimen>
+    <dimen name="mmadsdk_lightbox_minimize_button_height">60dp</dimen>
+    <dimen name="mmadsdk_lightbox_minimize_button_right_margin">9dp</dimen>
+    <dimen name="mmadsdk_lightbox_minimize_button_top_margin">9dp</dimen>
+    <dimen name="mmadsdk_lightbox_minimize_button_width">60dp</dimen>
+    <dimen name="mmadsdk_lightbox_replay_button_height">90dp</dimen>
+    <dimen name="mmadsdk_lightbox_replay_button_width">90dp</dimen>
+    <dimen name="mmadsdk_lightbox_right_margin">20dp</dimen>
+    <dimen name="mmadsdk_lightbox_top_margin">25dp</dimen>
+    <dimen name="mmadsdk_lightbox_width">320dp</dimen>
+</resources>

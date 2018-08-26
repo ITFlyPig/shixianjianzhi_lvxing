@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="cancecollection">It has been removed from favorites.</string>
+    <string name="proposed_price">가격</string>
+    <string name="app_name">싱가포르 자유 여행</string>
+    <string name="Feedbacknotemil">No found mail account.Please add mail in settings of system；OK</string>
+    <string name="sharelocaltxt">Try out this tour guide app"북경 자유 여행".https://itunes.apple.com/us/app/self-tour-guide-for-beijing/id1071690742?l=zh&amp;ls=1&amp;mt=8</string>
+    <string name="comment">애플리케이션 평가</string>
+    <string name="Feedback">피드백</string>
+    <string name="share">공유 이 응용 프로그램을</string>
+    <string name="notcollection">어떤 즐겨 찾기가 없습니다</string>
+    <string name="all">모든</string>
+    <string name="cance">취소</string>
+    <string name="call">요구</string>
+    <string name="incollection">그것은 즐겨 찾기에왔다</string>
+    <string name="more">더</string>
+    <string name="collection">수집</string>
+    <string name="metro">지하철</string>
+    <string name="gl">해적</string>
+    <string name="categories">분류</string>
+    <string name="hotel_rating">성급 호텔</string>
+    <string name="website">공식 웹 사이트</string>
+    <string name="subway">교통 (지하철)</string>
+    <string name="address">주소</string>
+    <string name="phone">전화 번호</string>
+    <string name="play_time">때 플레이 긴</string>
+    <string name="shop_hours">영업 시간</string>
+    <string name="doorprice">티켓</string>
+    <string name="overview">개요</string>
+    <string name="attractions">관광 명소</string>
+    <string name="hotel">호텔</string>
+    <string name="restaurant">레스토랑</string>
+    <string name="shop">쇼핑</string>
+    <string name="entertainment">환대</string>
+    <string name="intro">간략한 소개</string>
+
+
+
+
+
+</resources>

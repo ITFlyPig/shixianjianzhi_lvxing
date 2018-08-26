@@ -1,0 +1,140 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion "25.0.3"
+
+    defaultConfig {
+        applicationId "com.SelfTourGuide.singapore"
+        minSdkVersion 19
+        targetSdkVersion 26
+        versionCode 4
+        versionName "1.4"
+        multiDexEnabled  true
+    }
+
+    //修改生成的apk名字
+    applicationVariants.all{ variant->
+        variant.outputs.each { output->
+            def oldFile = output.outputFile
+            def newName = '';
+            if(variant.buildType.name.equals('release')){
+//                println(variant.productFlavors[0].name)
+                def releaseApkName = 'android'+ '-' + variant.productFlavors[0].name + '-singapore-1.1-lite.apk'
+                output.outputFile = new File(oldFile.parent, releaseApkName)
+            }
+            if(variant.buildType.name.equals('beta')){
+                newName = oldFile.name.replace(".apk", "-v" + "-build" + getDate() + "singapore.apk")
+                output.outputFile = new File(oldFile.parent, newName)
+            }
+            if(variant.buildType.name.equals('debug')){
+
+            }
+        }
+    }
+
+
+    lintOptions{
+        abortOnError false
+        disable 'MissingTranslation'
+    }
+
+    dexOptions {
+        incremental true
+        javaMaxHeapSize "4g"
+    }
+
+    productFlavors {
+        tengxun {}
+        baidu {}
+        qihoo {}
+        anzhi {}
+        xiaomi {}
+        Alibaba {}
+        googleplay {}
+        productFlavors.all { flavor ->
+            flavor.manifestPlaceholders = [UMENG_CHANNEL_VALUE: name]
+        }
+    }
+
+//    buildTypes {
+//        release {
+//            minifyEnabled false
+//            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+//        }
+//    }
+
+
+    signingConfigs {
+        release {
+            storeFile project.KEYSTORE_STORE_FILE
+            storePassword project.KEYSTORE_STORE_PASSWORD
+            keyAlias project.KEYSTORE_KEY_ALIAS
+            keyPassword project.KEYSTORE_KEY_PASSWORD
+        }
+    }
+
+    buildTypes {
+        // Google Play Billing APIs only work with apps signed for production.
+        debug {
+            signingConfig signingConfigs.release
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        release {
+            signingConfig signingConfigs.release
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+
+repositories {
+    mavenCentral()
+    jcenter()
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+repositories {
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+
+dependencies {
+    compile 'com.android.support:support-v4:26+'
+    compile 'com.android.support:appcompat-v7:26+'
+
+    compile 'com.jakewharton:butterknife:7.0.1'
+    compile 'com.android.support:multidex:1.0.1'
+    compile 'com.umeng.analytics:analytics:latest.integration'
+    //SubsamplingScaleImageView
+    compile project(':library')
+    //SubsamplingScaleImageView
+    compile(name: 'android-ad-sdk', ext: 'aar')
+    compile 'net.zetetic:android-database-sqlcipher:3.5.4@aar'
+
+    //facebook
+    compile 'com.google.android.gms:play-services:11.0.1'
+    compile 'com.google.android.gms:play-services-ads:11.0.1'
+    compile 'com.facebook.android:audience-network-sdk:4.+'
+    compile 'com.google.ads.mediation:facebook:4.23.0.0'
+    //facebook
+    compile 'com.google.firebase:firebase-ads:10.0.1'
+    compile(name: 'VungleAdapter', 'ext': 'aar')
+    //------------------------------------
+    compile 'com.android.support:design:26+'
+    //发通知的
+    compile 'org.greenrobot:eventbus:3.0.0'
+    testCompile 'junit:junit:4.12'
+
+    //谷歌内购
+    compile 'com.android.billingclient:billing:1.0'
+
+}
+apply plugin: 'com.google.gms.google-services'
+

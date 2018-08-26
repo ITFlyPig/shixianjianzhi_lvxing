@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.billingclient:billing-1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/685b195b8dac384d2c003ed1e1d29a6081e36dba/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/685b195b8dac384d2c003ed1e1d29a6081e36dba/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.billingclient/billing/1.0/2974af04233d5eff78803927bf44e621fb1c8dfb/billing-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

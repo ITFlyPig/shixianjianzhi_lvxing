@@ -1,0 +1,538 @@
+[
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/df44f194bb5ff705a7e652e6fb909f82df5578cf/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/mr_media_pause_light.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/res/drawable/mr_media_pause_light.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/mr_group_collapse.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/res/drawable/mr_group_collapse.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_expanded_controller_skip_previous.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f0557171bc58a69d075dee3d40e411496d70192e/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_mini_controller_stop_large.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_mini_controller_gradient_light.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_notification_rewind10.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/5e5bb24a6e7609a72f88139a09189fdb5eaa1668/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/df44f194bb5ff705a7e652e6fb909f82df5578cf/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/mr_vol_type_audiotrack_dark.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/res/drawable/mr_vol_type_audiotrack_dark.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/mr_media_play_light.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/res/drawable/mr_media_play_light.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_mini_controller_mute.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f0557171bc58a69d075dee3d40e411496d70192e/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/design_fab_background.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/df44f194bb5ff705a7e652e6fb909f82df5578cf/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/listselectortwo.xml",
+        "source": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/res/drawable/listselectortwo.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/mmadsdk_expand_collapse.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/b035fcdc86614906f6ea1d3b29f42c92885a68b9/output/res/drawable/mmadsdk_expand_collapse.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f0557171bc58a69d075dee3d40e411496d70192e/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/mr_group_expand.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/res/drawable/mr_group_expand.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/mr_button_connected_dark.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/res/drawable/mr_button_connected_dark.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f0557171bc58a69d075dee3d40e411496d70192e/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f0557171bc58a69d075dee3d40e411496d70192e/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_mini_controller_play_large.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f0557171bc58a69d075dee3d40e411496d70192e/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_notification_forward10.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/mmadsdk_play_pause.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/b035fcdc86614906f6ea1d3b29f42c92885a68b9/output/res/drawable/mmadsdk_play_pause.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_expanded_controller_bg_gradient_light.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/shape_corner.xml",
+        "source": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/res/drawable/shape_corner.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/mr_button_connecting_light.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/res/drawable/mr_button_connecting_light.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/my_style.xml",
+        "source": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/res/drawable/my_style.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_mini_controller_play.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_expanded_controller_stop.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f0557171bc58a69d075dee3d40e411496d70192e/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_mini_controller_rewind30.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_mini_controller_pause_large.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/mr_media_play_dark.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/res/drawable/mr_media_play_dark.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_mini_controller_skip_prev.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/shape.xml",
+        "source": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/res/drawable/shape.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_mini_controller_forward30.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_mini_controller_progress_drawable.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/listselectorone.xml",
+        "source": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/res/drawable/listselectorone.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_notification_skip_next.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/mr_button_light.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/res/drawable/mr_button_light.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_mini_controller_stop.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_notification_forward30.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/mmadsdk_mute_unmute.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/b035fcdc86614906f6ea1d3b29f42c92885a68b9/output/res/drawable/mmadsdk_mute_unmute.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_expanded_controller_rewind30.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_expanded_controller_play.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_notification_skip_prev.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f0557171bc58a69d075dee3d40e411496d70192e/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/mr_button_connected_light.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/res/drawable/mr_button_connected_light.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/mr_dialog_close_light.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/res/drawable/mr_dialog_close_light.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/progress_bar_states.xml",
+        "source": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/res/drawable/progress_bar_states.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/shape_corner_up.xml",
+        "source": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/res/drawable/shape_corner_up.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_expanded_controller_mute.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/5e5bb24a6e7609a72f88139a09189fdb5eaa1668/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/mr_dialog_material_background_light.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/res/drawable/mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/mr_vol_type_audiotrack_light.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/res/drawable/mr_vol_type_audiotrack_light.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_notification_forward.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_notification_disconnect.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f0557171bc58a69d075dee3d40e411496d70192e/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_expanded_controller_seekbar_thumb.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/mr_button_connecting_dark.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/res/drawable/mr_button_connecting_dark.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f0557171bc58a69d075dee3d40e411496d70192e/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_skip_ad_label_border.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/mr_media_pause_dark.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/res/drawable/mr_media_pause_dark.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/mr_button_dark.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/res/drawable/mr_button_dark.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/design_password_eye.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/df44f194bb5ff705a7e652e6fb909f82df5578cf/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f0557171bc58a69d075dee3d40e411496d70192e/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_notification_rewind30.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_mini_controller_skip_next.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/round_text.xml",
+        "source": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/res/drawable/round_text.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_expanded_controller_forward30.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/tooltip_frame_light.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/5e5bb24a6e7609a72f88139a09189fdb5eaa1668/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_notification_play.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/shape_corner_bottom.xml",
+        "source": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/res/drawable/shape_corner_bottom.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/notification_bg.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/5e5bb24a6e7609a72f88139a09189fdb5eaa1668/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f0557171bc58a69d075dee3d40e411496d70192e/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/round.xml",
+        "source": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/res/drawable/round.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/mmadsdk_inline_video_progress_bar.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/b035fcdc86614906f6ea1d3b29f42c92885a68b9/output/res/drawable/mmadsdk_inline_video_progress_bar.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/round_text_out.xml",
+        "source": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/res/drawable/round_text_out.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_expanded_controller_seekbar_track.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_expanded_controller_pause.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_notification_small_icon.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_expanded_controller_closed_caption.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_notification_connecting.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/62670068f6f8274414dd5fb85857ad06eed7bee1/output/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_mini_controller_pause.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_expanded_controller_skip_next.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f0557171bc58a69d075dee3d40e411496d70192e/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/mr_dialog_close_dark.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/res/drawable/mr_dialog_close_dark.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f0557171bc58a69d075dee3d40e411496d70192e/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/df44f194bb5ff705a7e652e6fb909f82df5578cf/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/tooltip_frame_dark.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_mini_controller_closed_caption.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_notification_stop_live_stream.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/mr_dialog_material_background_dark.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/res/drawable/mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_notification_rewind.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable/cast_ic_notification_pause.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_notification_pause.xml"
+    }
+]

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete">删除</string>
+    <string name="skip">跳过</string>
+    <string name="cancecollection">取消收藏</string>
+    <string name="notnet">未連接網絡</string>
+    <string name="proposed_price">參考價格</string>
+    <string name="app_name">新加坡旅遊攻略</string>
+    <string name="Feedbacknotemil">未添加賬戶，請在系統添加賬戶後再發送郵件；OK</string>
+    <string name="sharelocaltxt">我发现一个不错的應用程式“北京自助旅遊”https://itunes.apple.com/us/app/self-tour-guide-for-beijing/id1071690742?l=zh&amp;ls=1&amp;mt=8</string>
+    <string name="comment">给應用程式评分</string>
+    <string name="Feedback">意見反映</string>
+    <string name="share">分享給朋友</string>
+    <string name="notcollection">无收藏</string>
+    <string name="all">全部</string>
+    <string name="cance">取消</string>
+    <string name="call">撥打電話</string>
+    <string name="incollection">已收藏</string>
+    <string name="more">更多</string>
+    <string name="collection">收藏</string>
+    <string name="metro">地鐵</string>
+    <string name="gl">攻略</string>
+    <string name="categories">類別</string>
+    <string name="hotel_rating">酒店星級</string>
+    <string name="website">官方網站</string>
+    <string name="subway">交通（地鐵）</string>
+    <string name="address">地址</string>
+    <string name="phone">電話</string>
+    <string name="play_time">遊玩時長</string>
+    <string name="shop_hours">開放時間</string>
+    <string name="doorprice">門票</string>
+    <string name="overview">概覽</string>
+    <string name="attractions">景點</string>
+    <string name="hotel">酒店</string>
+    <string name="restaurant">餐廳</string>
+    <string name="shop">購物</string>
+    <string name="entertainment">娛樂</string>
+    <string name="intro">簡介</string>
+
+
+    <string name="downtitle">免費試用PRO版7天</string>
+    <string name="one">無廣告</string>
+    <string name="two">離線地鐵圖</string>
+    <string name="three">無需聯網，完全離線使用，不費流量</string>
+
+    <string name="privacy">隱私政策</string>
+    <string name="terms_of_use">使用條款</string>
+
+
+
+
+</resources>

@@ -1,0 +1,305 @@
+# view res/layout/design_bottom_navigation_item.xml #generated:26
+-keep class android.support.design.internal.BaselineLayout { <init>(...); }
+
+# view res/layout/design_navigation_item.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# view res/layout/design_navigation_menu.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# view res/layout/design_layout_snackbar_include.xml #generated:18
+-keep class android.support.design.internal.SnackbarContentLayout { <init>(...); }
+
+# view res/layout/design_text_input_password_icon.xml #generated:18
+-keep class android.support.design.widget.CheckableImageButton { <init>(...); }
+
+# view res/layout/design_bottom_sheet_dialog.xml #generated:26
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# view res/layout/design_layout_snackbar.xml #generated:18
+# view sw600dp-v13/res/layout-sw600dp-v13/design_layout_snackbar.xml #generated:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:41
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:43
+# view res/layout/abc_alert_dialog_material.xml #generated:52
+# view res/layout/abc_alert_dialog_material.xml #generated:66
+# view res/layout/abc_alert_dialog_title_material.xml #generated:56
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# view res/layout/abc_select_dialog_material.xml #generated:23
+-keep class android.support.v7.app.AlertController$RecycleListView { <init>(...); }
+
+# view res/layout/mr_volume_control.xml #generated:43
+-keep class android.support.v7.app.MediaRouteExpandCollapseButton { <init>(...); }
+
+# view res/layout/mr_controller_volume_item.xml #generated:43
+# view res/layout/mr_volume_control.xml #generated:34
+-keep class android.support.v7.app.MediaRouteVolumeSlider { <init>(...); }
+
+# view res/layout/mr_controller_material_dialog_b.xml #generated:87
+-keep class android.support.v7.app.OverlayListView { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+# view v26/res/layout-v26/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+# view v26/res/layout-v26/abc_screen_toolbar.xml #generated:44
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+# view v26/res/layout-v26/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:18
+-keep class android.support.v7.widget.AlertDialogLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:26
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_title_material.xml #generated:45
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_dialog_title_material.xml #generated:22
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:36
+# view res/layout/cast_expanded_controller_activity.xml #generated:28
+# view v26/res/layout-v26/abc_screen_toolbar.xml #generated:37
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# view AndroidManifest.xml #generated:108
+-keep class com.SelfTourGuide.singapore.base.BaseActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class com.SelfTourGuide.singapore.base.BaseApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:66
+-keep class com.SelfTourGuide.singapore.fragment.FragmentMainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:72
+-keep class com.SelfTourGuide.singapore.ui.AttractionsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:75
+-keep class com.SelfTourGuide.singapore.ui.AttractionsInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:159
+-keep class com.SelfTourGuide.singapore.ui.DownProApp { <init>(...); }
+
+# view AndroidManifest.xml #generated:90
+-keep class com.SelfTourGuide.singapore.ui.EntertainmentActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:102
+-keep class com.SelfTourGuide.singapore.ui.EntertainmentInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:81
+-keep class com.SelfTourGuide.singapore.ui.HotelActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:93
+-keep class com.SelfTourGuide.singapore.ui.HotelInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:78
+-keep class com.SelfTourGuide.singapore.ui.IntroductionActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:69
+-keep class com.SelfTourGuide.singapore.ui.OverViewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:84
+-keep class com.SelfTourGuide.singapore.ui.RestaurantActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:96
+-keep class com.SelfTourGuide.singapore.ui.RestaurantInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:87
+-keep class com.SelfTourGuide.singapore.ui.ShoppingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:99
+-keep class com.SelfTourGuide.singapore.ui.ShoppingInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:56
+-keep class com.SelfTourGuide.singapore.ui.StartActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:105
+-keep class com.SelfTourGuide.singapore.ui.WebViewActivity { <init>(...); }
+
+# view res/layout/activity_attractions.xml #generated:54
+# view res/layout/activity_entertainment.xml #generated:44
+# view res/layout/activity_hotel.xml #generated:53
+# view res/layout/activity_restaurant.xml #generated:53
+# view res/layout/activity_shopping.xml #generated:44
+-keep class com.SelfTourGuide.singapore.util.BounceListView { <init>(...); }
+
+# view res/layout/activity_attractions_info.xml #generated:70
+# view res/layout/activity_entertainment_info.xml #generated:89
+# view res/layout/activity_hotel_info.xml #generated:69
+# view res/layout/activity_introduction.xml #generated:45
+# view res/layout/activity_over_view.xml #generated:43
+# view res/layout/activity_restaurant_info.xml #generated:90
+# view res/layout/activity_shopping_info.xml #generated:90
+# view res/layout/main_tab_01.xml #generated:34
+-keep class com.SelfTourGuide.singapore.util.OverScrollView { <init>(...); }
+
+# view res/layout/main_tab_02.xml #generated:41
+-keep class com.davemorrissey.labs.subscaleview.SubsamplingScaleImageView { <init>(...); }
+
+# view AndroidManifest.xml #generated:127
+-keep class com.facebook.ads.AudienceNetworkActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:124
+-keep class com.facebook.ads.InterstitialAdActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:118
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+
+# view res/layout/activity_attractions.xml #generated:86
+# view res/layout/activity_attractions_info.xml #generated:456
+# view res/layout/activity_entertainment.xml #generated:75
+# view res/layout/activity_entertainment_info.xml #generated:414
+# view res/layout/activity_hotel.xml #generated:84
+# view res/layout/activity_hotel_info.xml #generated:406
+# view res/layout/activity_restaurant.xml #generated:84
+# view res/layout/activity_restaurant_info.xml #generated:451
+# view res/layout/activity_shopping.xml #generated:75
+# view res/layout/activity_shopping_info.xml #generated:413
+# view res/layout/main_tab_01.xml #generated:342
+# view res/layout/main_tab_02.xml #generated:51
+# view res/layout/main_tab_03.xml #generated:110
+# view res/layout/main_tab_03.xml #generated:121
+# view res/layout/main_tab_04.xml #generated:74
+-keep class com.google.android.gms.ads.AdView { <init>(...); }
+
+# view res/layout/activity_start.xml #generated:14
+-keep class com.google.android.gms.ads.NativeExpressAdView { <init>(...); }
+
+# view AndroidManifest.xml #generated:171
+-keep class com.google.android.gms.appinvite.PreviewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:190
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(...); }
+
+# view AndroidManifest.xml #generated:181
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:198
+-keep class com.google.android.gms.cast.framework.ReconnectionService { <init>(...); }
+
+# view res/layout/cast_help_text.xml #generated:2
+-keep class com.google.android.gms.cast.framework.internal.featurehighlight.HelpTextView { <init>(...); }
+
+# view AndroidManifest.xml #generated:195
+-keep class com.google.android.gms.cast.framework.media.MediaIntentReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:197
+-keep class com.google.android.gms.cast.framework.media.MediaNotificationService { <init>(...); }
+
+# view AndroidManifest.xml #generated:228
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:242
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:256
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(...); }
+
+# view AndroidManifest.xml #generated:237
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:252
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(...); }
+
+# view AndroidManifest.xml #generated:215
+-keep class com.google.android.gms.tagmanager.TagManagerPreviewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:210
+-keep class com.google.android.gms.tagmanager.TagManagerService { <init>(...); }
+
+# view AndroidManifest.xml #generated:276
+-keep class com.google.firebase.iid.FirebaseInstanceIdInternalReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:262
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:283
+-keep class com.google.firebase.iid.FirebaseInstanceIdService { <init>(...); }
+
+# view AndroidManifest.xml #generated:203
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(...); }
+
+# view AndroidManifest.xml #generated:291
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:138
+-keep class com.inmobi.commons.core.utilities.uid.ImIdShareBroadCastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:132
+-keep class com.inmobi.rendering.InMobiAdActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:147
+-keep class com.inmobi.signals.activityrecognition.ActivityRecognitionManager { <init>(...); }
+
+# view AndroidManifest.xml #generated:162
+-keep class com.millennialmedia.internal.MMActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:167
+-keep class com.millennialmedia.internal.MMIntentWrapperActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:155
+-keep class com.vungle.publisher.MraidFullScreenAdActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:151
+-keep class com.vungle.publisher.VideoFullScreenAdActivity { <init>(...); }
+
+# onClick res/layout/activity_attractions_info.xml #generated:17
+# onClick res/layout/activity_attractions_info.xml #generated:23
+# onClick res/layout/activity_down_pro_app.xml #generated:16
+# onClick res/layout/activity_down_pro_app.xml #generated:22
+-keepclassmembers class * { *** onClickBack(...); }
+
+# onClick res/layout/main_tab_04.xml #generated:47
+-keepclassmembers class * { *** onClickComment(...); }
+
+# onClick res/layout/activity_attractions_info.xml #generated:53
+# onClick res/layout/activity_entertainment_info.xml #generated:44
+# onClick res/layout/activity_entertainment_info.xml #generated:51
+# onClick res/layout/activity_hotel_info.xml #generated:45
+# onClick res/layout/activity_hotel_info.xml #generated:52
+# onClick res/layout/activity_restaurant_info.xml #generated:45
+# onClick res/layout/activity_restaurant_info.xml #generated:52
+# onClick res/layout/activity_shopping_info.xml #generated:45
+# onClick res/layout/activity_shopping_info.xml #generated:52
+-keepclassmembers class * { *** onColletionClick(...); }
+

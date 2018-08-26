@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "97959949310",
+    "firebase_url": "https://travel-guide-63357.firebaseio.com",
+    "project_id": "travel-guide-63357",
+    "storage_bucket": "travel-guide-63357.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97959949310:android:586511f5a2c0a41f",
+        "android_client_info": {
+          "package_name": "com.SelfTourGuide.beijing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97959949310-aacqmcfgs36k8vb944kg863hss7vm8ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBMHlzSH_epL2KlhNBwecccIEkeaY9W54"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97959949310:android:a06cef7f8fb8a697",
+        "android_client_info": {
+          "package_name": "com.SelfTourGuide.hongkong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97959949310-aacqmcfgs36k8vb944kg863hss7vm8ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBMHlzSH_epL2KlhNBwecccIEkeaY9W54"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97959949310:android:371e2f37935d5838",
+        "android_client_info": {
+          "package_name": "com.SelfTourGuide.singapore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97959949310-aacqmcfgs36k8vb944kg863hss7vm8ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBMHlzSH_epL2KlhNBwecccIEkeaY9W54"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
