@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/appbg"
-    tools:context="com.SelfTourGuide.singapore.ui.RestaurantActivity">
+    tools:context="com.SelfTourGuide.bangkok.ui.RestaurantActivity">
     <RelativeLayout
         android:id="@+id/rl_top"
         android:layout_width="match_parent"
@@ -50,7 +50,7 @@
         android:layout_height="0.5dp"
         android:background="@color/navigation_line"/>
 
-    <com.SelfTourGuide.singapore.util.BounceListView
+    <com.SelfTourGuide.bangkok.util.BounceListView
         android:dividerHeight="0.5dp"
         android:layout_below="@id/line"
         android:id="@+id/mListView"

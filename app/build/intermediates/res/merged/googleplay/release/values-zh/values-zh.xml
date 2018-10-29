@@ -4,7 +4,7 @@
     <string name="Feedbacknotemil">未添加账户，请在系统添加账户后再发送邮件；确认</string>
     <string name="address">地址</string>
     <string name="all">全部</string>
-    <string name="app_name">新加坡旅游攻略</string>
+    <string name="app_name">曼谷旅游攻略</string>
     <string name="attractions">景点</string>
     <string name="call">拨电话</string>
     <string name="cance">取消</string>
@@ -15,7 +15,7 @@
     <string name="comment">好评鼓励</string>
     <string name="delete">删除</string>
     <string name="doorprice">门票</string>
-    <string name="downtitle">获取专业版</string>
+    <string name="downtitle">免费去除广告</string>
     <string name="entertainment">娱乐</string>
     <string name="gl">攻略</string>
     <string name="hotel">酒店</string>
@@ -30,7 +30,9 @@
     <string name="overview">概览</string>
     <string name="phone">电话</string>
     <string name="play_time">游玩时长</string>
+    <string name="privacy">隐私政策</string>
     <string name="proposed_price">参考价格</string>
+    <string name="remove_ad">去掉广告</string>
     <string name="restaurant">餐厅</string>
     <string name="share">分享此应用</string>
     <string name="sharelocaltxt">我发现一个不错的应用，“北京自由行攻略”https://itunes.apple.com/us/app/self-tour-guide-for-beijing/id1071690742?l=zh&amp;ls=1&amp;mt=8</string>
@@ -38,6 +40,7 @@
     <string name="shop_hours">开放时间</string>
     <string name="skip">跳过</string>
     <string name="subway">交通</string>
+    <string name="terms_of_use">使用条款</string>
     <string name="three">无需联网，完全离线使用，不费流量</string>
     <string name="two">离线地铁图</string>
     <string name="website">官方网址</string>

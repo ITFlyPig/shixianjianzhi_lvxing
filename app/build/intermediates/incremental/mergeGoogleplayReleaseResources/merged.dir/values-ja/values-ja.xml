@@ -23,7 +23,7 @@
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"折りたたむ"</string>
     <string name="address">番地</string>
     <string name="all">全体</string>
-    <string name="app_name">シンガポール観光ガイド</string>
+    <string name="app_name">バンコク観光ガイド</string>
     <string name="attractions">観光名所</string>
     <string name="call">コール</string>
     <string name="cance">キャンセル</string>
@@ -86,6 +86,7 @@
     <string msgid="3441753203274453993" name="common_signin_button_text">"ログイン"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Googleにログイン"</string>
     <string name="doorprice">チケット</string>
+    <string name="downtitle">広告を消す無料</string>
     <string name="entertainment">エンターテイメント</string>
     <string name="gl">攻略</string>
     <string name="hotel">ホテル</string>
@@ -121,6 +122,7 @@
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"検索"</string>
     <string name="play_time">遊びのかかり</string>
     <string name="proposed_price">価格帯</string>
+    <string name="remove_ad">広告を消す</string>
     <string name="restaurant">レストラン</string>
     <string msgid="368094699078615544" name="s1">"画像の保存"</string>
     <string msgid="4550830452390689489" name="s2">"広告が画像ギャラリーに画像を保存することを許可しますか？"</string>

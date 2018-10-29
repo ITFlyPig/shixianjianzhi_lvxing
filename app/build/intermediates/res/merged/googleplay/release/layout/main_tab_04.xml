@@ -55,12 +55,34 @@
 		android:textColor="@android:color/black"
 		android:background="@drawable/round_text_out"
 		android:paddingLeft="15dp"
-		android:text="@string/comment"
+		android:text="@string/comment" />
+	<TextView
+		android:id="@+id/tv_privacy"
+		android:layout_below="@id/tv_comment"
+		android:layout_width="match_parent"
+		android:layout_height="50dp"
+		android:textSize="15sp"
+		android:gravity="center_vertical"
+		android:textColor="@android:color/black"
+		android:background="@drawable/round_text_out"
+		android:paddingLeft="15dp"
+		android:text="@string/privacy" />
+	<TextView
+		android:id="@+id/tv_use"
+		android:layout_below="@id/tv_privacy"
+		android:layout_width="match_parent"
+		android:layout_height="50dp"
+		android:textSize="15sp"
+		android:gravity="center_vertical"
+		android:textColor="@android:color/black"
+		android:background="@drawable/round_text_out"
+		android:paddingLeft="15dp"
+		android:text="@string/terms_of_use"
 		android:layout_marginBottom="10dp"/>
 
 
 	<TextView
-		android:layout_below="@id/tv_comment"
+		android:layout_below="@id/tv_use"
 		android:id="@+id/tv_Get_PRO"
 		android:layout_width="match_parent"
 		android:layout_height="50dp"
@@ -78,8 +100,9 @@
 		android:layout_width="wrap_content"
 		android:layout_height="wrap_content"
 		android:layout_centerHorizontal="true"
-		android:layout_alignParentBottom="true"
 		ads:adSize="BANNER"
+		android:layout_below="@id/tv_Get_PRO"
+		android:layout_marginTop="10dp"
 		ads:adUnitId="@string/bannerunit">
 	</com.google.android.gms.ads.AdView>
 

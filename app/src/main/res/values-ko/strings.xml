@@ -3,7 +3,7 @@
 
     <string name="cancecollection">It has been removed from favorites.</string>
     <string name="proposed_price">가격</string>
-    <string name="app_name">싱가포르 자유 여행</string>
+    <string name="app_name">방콕 자유 여행</string>
     <string name="Feedbacknotemil">No found mail account.Please add mail in settings of system；OK</string>
     <string name="sharelocaltxt">Try out this tour guide app"북경 자유 여행".https://itunes.apple.com/us/app/self-tour-guide-for-beijing/id1071690742?l=zh&amp;ls=1&amp;mt=8</string>
     <string name="comment">애플리케이션 평가</string>
@@ -34,6 +34,8 @@
     <string name="shop">쇼핑</string>
     <string name="entertainment">환대</string>
     <string name="intro">간략한 소개</string>
+    <string name="remove_ad">광고 삭제</string>
+    <string name="downtitle">광고 삭제 무료</string>
 
 
 

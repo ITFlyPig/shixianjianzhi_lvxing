@@ -12,12 +12,12 @@
         "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-hdpi-v4/quantum_ic_cast_connected_white_24.png",
-        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable-hdpi-v4/quantum_ic_cast_connected_white_24.png"
-    },
-    {
         "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-hdpi-v4/cast_abc_scrubber_control_to_pressed_mtrl_005.png",
         "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable-hdpi-v4/cast_abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-hdpi-v4/quantum_ic_cast_connected_white_24.png",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable-hdpi-v4/quantum_ic_cast_connected_white_24.png"
     },
     {
         "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-hdpi-v4/quantum_ic_replay_white_24.png",
@@ -48,12 +48,12 @@
         "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-hdpi-v4/ic_audiotrack_dark.png",
-        "source": "/Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/res/drawable-hdpi-v4/ic_audiotrack_dark.png"
-    },
-    {
         "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
         "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-hdpi-v4/ic_audiotrack_dark.png",
+        "source": "/Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/res/drawable-hdpi-v4/ic_audiotrack_dark.png"
     },
     {
         "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-hdpi-v4/quantum_ic_stop_white_24.png",

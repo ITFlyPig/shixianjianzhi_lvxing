@@ -5,7 +5,7 @@
     <string name="cancecollection">取消收藏</string>
     <string name="notnet">未连接网络</string>
     <string name="proposed_price">参考价格</string>
-    <string name="app_name">新加坡旅游攻略</string>
+    <string name="app_name">曼谷旅游攻略</string>
     <string name="Feedbacknotemil">未添加账户，请在系统添加账户后再发送邮件；确认</string>
     <string name="sharelocaltxt">我发现一个不错的应用，“北京自由行攻略”https://itunes.apple.com/us/app/self-tour-guide-for-beijing/id1071690742?l=zh&amp;ls=1&amp;mt=8</string>
     <string name="comment">好评鼓励</string>
@@ -37,13 +37,13 @@
     <string name="shop">购物</string>
     <string name="entertainment">娱乐</string>
     <string name="doorprice">门票</string>
-    <string name="downtitle">免费试用PRO版7天</string>
+    <string name="downtitle">免费去除广告</string>
     <string name="one">无广告</string>
     <string name="two">离线地铁图</string>
     <string name="three">无需联网，完全离线使用，不费流量</string>
     <string name="privacy">隐私政策</string>
     <string name="terms_of_use">使用条款</string>
-
+    <string name="remove_ad">去掉广告</string>
 
 
 

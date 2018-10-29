@@ -88,12 +88,12 @@
         "source": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/res/drawable-xhdpi/pressleft.png"
     },
     {
-        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable-xhdpi/opentime.png",
-        "source": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/res/drawable-xhdpi/opentime.png"
-    },
-    {
         "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable-xhdpi/collection_down.png",
         "source": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/res/drawable-xhdpi/collection_down.png"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable-xhdpi/opentime.png",
+        "source": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/res/drawable-xhdpi/opentime.png"
     },
     {
         "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable-xhdpi/defaultleft.png",
@@ -222,10 +222,6 @@
     {
         "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable-xhdpi/l0011.png",
         "source": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/res/drawable-xhdpi/l0011.png"
-    },
-    {
-        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable-xhdpi/logo.png",
-        "source": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/res/drawable-xhdpi/logo.png"
     },
     {
         "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/anzhi/debug/drawable-xhdpi/l0009.png",

@@ -23,7 +23,7 @@
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收合"</string>
     <string name="address">地址</string>
     <string name="all">全部</string>
-    <string name="app_name">新加坡旅遊攻略</string>
+    <string name="app_name">曼谷旅遊攻略</string>
     <string name="attractions">景點</string>
     <string name="call">撥打電話</string>
     <string name="cance">取消</string>
@@ -87,7 +87,7 @@
     <string msgid="669893613918351210" name="common_signin_button_text_long">"使用 Google 帳戶登入"</string>
     <string name="delete">删除</string>
     <string name="doorprice">門票</string>
-    <string name="downtitle">取得PRO版</string>
+    <string name="downtitle">免費幹掉廣告</string>
     <string name="entertainment">娛樂</string>
     <string name="gl">攻略</string>
     <string name="hotel">酒店</string>
@@ -124,7 +124,9 @@
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"清除搜尋"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"搜尋"</string>
     <string name="play_time">遊玩時長</string>
+    <string name="privacy">隱私政策</string>
     <string name="proposed_price">參考價格</string>
+    <string name="remove_ad">幹掉廣告</string>
     <string name="restaurant">餐廳</string>
     <string msgid="368094699078615544" name="s1">"儲存圖片"</string>
     <string msgid="4550830452390689489" name="s2">"要允許廣告將圖片儲存在相片庫中嗎？"</string>
@@ -140,6 +142,7 @@
     <string name="skip">跳过</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
     <string name="subway">交通（地鐵）</string>
+    <string name="terms_of_use">使用條款</string>
     <string name="three">無需聯網，完全離線使用，不費流量</string>
     <string name="two">離線地鐵圖</string>
     <string msgid="363496807345461806" name="wallet_buy_button_place_holder">"透過 Google 購物"</string>

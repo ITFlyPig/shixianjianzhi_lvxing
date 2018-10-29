@@ -2,7 +2,7 @@
 manifest
 ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:2:1-150:12
 	package
-		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:3:5-42
+		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:3:5-40
 		INJECTED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -51,7 +51,7 @@ MERGED from [com.google.android.gms:play-services-iid:11.0.1] /Users/wangyuelin/
 MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] /Users/wangyuelin/.android/build-cache/d606df8e69483c0d51d8ccdd0d4f187c3b11d0f0/output/AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.1] /Users/wangyuelin/.android/build-cache/3418f37cd334f3e7490866b39dad60e648badf9f/output/AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-maps:11.0.1] /Users/wangyuelin/.android/build-cache/08bab1f9010a96fdc3c57069d42b97800c258ed2/output/AndroidManifest.xml:20:5-66
-MERGED from [com.facebook.android:audience-network-sdk:4.99.1] /Users/wangyuelin/.android/build-cache/36bed8e0e59f78037eb7f656feadc3e4402c0aa1/output/AndroidManifest.xml:11:5-67
+MERGED from [com.facebook.android:audience-network-sdk:4.99.3] /Users/wangyuelin/.android/build-cache/f4941c8262a27ec86a72b1246cab9d5798febd14/output/AndroidManifest.xml:11:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:11.0.1] /Users/wangyuelin/.android/build-cache/3780043b4adb7b597e4b666157ef40df97070433/output/AndroidManifest.xml:19:5-66
 MERGED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /Users/wangyuelin/.android/build-cache/8d693ae6b647dcfc27f7e1f8a306af67fcc5723b/output/AndroidManifest.xml:20:5-66
@@ -69,7 +69,7 @@ MERGED from [com.google.android.gms:play-services-nearby:11.0.1] /Users/wangyuel
 MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.1] /Users/wangyuelin/.android/build-cache/d606df8e69483c0d51d8ccdd0d4f187c3b11d0f0/output/AndroidManifest.xml:21:5-78
 MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.1] /Users/wangyuelin/.android/build-cache/3418f37cd334f3e7490866b39dad60e648badf9f/output/AndroidManifest.xml:21:5-78
 MERGED from [com.google.android.gms:play-services-maps:11.0.1] /Users/wangyuelin/.android/build-cache/08bab1f9010a96fdc3c57069d42b97800c258ed2/output/AndroidManifest.xml:19:5-78
-MERGED from [com.facebook.android:audience-network-sdk:4.99.1] /Users/wangyuelin/.android/build-cache/36bed8e0e59f78037eb7f656feadc3e4402c0aa1/output/AndroidManifest.xml:12:5-79
+MERGED from [com.facebook.android:audience-network-sdk:4.99.3] /Users/wangyuelin/.android/build-cache/f4941c8262a27ec86a72b1246cab9d5798febd14/output/AndroidManifest.xml:12:5-79
 MERGED from [com.google.android.gms:play-services-ads-lite:11.0.1] /Users/wangyuelin/.android/build-cache/3780043b4adb7b597e4b666157ef40df97070433/output/AndroidManifest.xml:20:5-78
 MERGED from [com.google.firebase:firebase-analytics:11.0.1] /Users/wangyuelin/.android/build-cache/30b43d07c69b5196911d06d89f474d53805a3818/output/AndroidManifest.xml:21:5-78
 MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] /Users/wangyuelin/.android/build-cache/8d693ae6b647dcfc27f7e1f8a306af67fcc5723b/output/AndroidManifest.xml:21:5-78
@@ -144,7 +144,7 @@ MERGED from [com.google.android.gms:play-services-vision-common:11.0.1] /Users/w
 MERGED from [com.google.android.gms:play-services-identity:11.0.1] /Users/wangyuelin/.android/build-cache/3f3449df461f91162bcb9bb6663b7062e26b923d/output/AndroidManifest.xml:18:5-19
 MERGED from [com.google.android.gms:play-services-maps:11.0.1] /Users/wangyuelin/.android/build-cache/08bab1f9010a96fdc3c57069d42b97800c258ed2/output/AndroidManifest.xml:24:5-19
 MERGED from [com.google.android.gms:play-services-wearable:11.0.1] /Users/wangyuelin/.android/build-cache/71d4a93609a53e09494bb3145aeb13d86e43b74a/output/AndroidManifest.xml:18:5-19
-MERGED from [com.facebook.android:audience-network-sdk:4.99.1] /Users/wangyuelin/.android/build-cache/36bed8e0e59f78037eb7f656feadc3e4402c0aa1/output/AndroidManifest.xml:14:5-18:19
+MERGED from [com.facebook.android:audience-network-sdk:4.99.3] /Users/wangyuelin/.android/build-cache/f4941c8262a27ec86a72b1246cab9d5798febd14/output/AndroidManifest.xml:14:5-18:19
 MERGED from [com.google.firebase:firebase-ads:10.0.1] /Users/wangyuelin/.android/build-cache/00d8b961b7800482f702c6685776f60199c701ad/output/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:11.0.1] /Users/wangyuelin/.android/build-cache/3780043b4adb7b597e4b666157ef40df97070433/output/AndroidManifest.xml:23:5-26:19
 MERGED from [com.google.android.gms:play-services-clearcut:11.0.1] /Users/wangyuelin/.android/build-cache/93900a6bf7aea501ad8df2b653f1feeec7d855ca/output/AndroidManifest.xml:18:5-19
@@ -183,7 +183,7 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/wangyuelin/.android/bu
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:36:9-62
 	android:name
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:32:9-45
-activity#com.SelfTourGuide.singapore.ui.StartActivity
+activity#com.SelfTourGuide.bangkok.ui.StartActivity
 ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:38:9-47:20
 	android:label
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:40:13-45
@@ -201,91 +201,91 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:45:17-77
 	android:name
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:45:27-74
-activity#com.SelfTourGuide.singapore.fragment.FragmentMainActivity
+activity#com.SelfTourGuide.bangkok.fragment.FragmentMainActivity
 ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:49:9-50:62
 	android:screenOrientation
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:50:13-49
 	android:name
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:49:19-64
-activity#com.SelfTourGuide.singapore.ui.OverViewActivity
+activity#com.SelfTourGuide.bangkok.ui.OverViewActivity
 ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:52:9-54:52
 	android:screenOrientation
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:54:13-49
 	android:name
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:53:13-48
-activity#com.SelfTourGuide.singapore.ui.AttractionsActivity
+activity#com.SelfTourGuide.bangkok.ui.AttractionsActivity
 ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:55:9-57:52
 	android:screenOrientation
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:57:13-49
 	android:name
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:56:13-51
-activity#com.SelfTourGuide.singapore.ui.AttractionsInfoActivity
+activity#com.SelfTourGuide.bangkok.ui.AttractionsInfoActivity
 ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:58:9-60:52
 	android:screenOrientation
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:60:13-49
 	android:name
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:59:13-55
-activity#com.SelfTourGuide.singapore.ui.IntroductionActivity
+activity#com.SelfTourGuide.bangkok.ui.IntroductionActivity
 ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:61:9-63:52
 	android:screenOrientation
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:63:13-49
 	android:name
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:62:13-52
-activity#com.SelfTourGuide.singapore.ui.HotelActivity
+activity#com.SelfTourGuide.bangkok.ui.HotelActivity
 ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:64:9-66:52
 	android:screenOrientation
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:66:13-49
 	android:name
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:65:13-45
-activity#com.SelfTourGuide.singapore.ui.RestaurantActivity
+activity#com.SelfTourGuide.bangkok.ui.RestaurantActivity
 ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:67:9-69:52
 	android:screenOrientation
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:69:13-49
 	android:name
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:68:13-50
-activity#com.SelfTourGuide.singapore.ui.ShoppingActivity
+activity#com.SelfTourGuide.bangkok.ui.ShoppingActivity
 ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:70:9-72:52
 	android:screenOrientation
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:72:13-49
 	android:name
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:71:13-48
-activity#com.SelfTourGuide.singapore.ui.EntertainmentActivity
+activity#com.SelfTourGuide.bangkok.ui.EntertainmentActivity
 ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:73:9-75:52
 	android:screenOrientation
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:75:13-49
 	android:name
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:74:13-53
-activity#com.SelfTourGuide.singapore.ui.HotelInfoActivity
+activity#com.SelfTourGuide.bangkok.ui.HotelInfoActivity
 ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:76:9-78:52
 	android:screenOrientation
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:78:13-49
 	android:name
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:77:13-49
-activity#com.SelfTourGuide.singapore.ui.RestaurantInfoActivity
+activity#com.SelfTourGuide.bangkok.ui.RestaurantInfoActivity
 ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:79:9-81:52
 	android:screenOrientation
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:81:13-49
 	android:name
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:80:13-54
-activity#com.SelfTourGuide.singapore.ui.ShoppingInfoActivity
+activity#com.SelfTourGuide.bangkok.ui.ShoppingInfoActivity
 ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:82:9-84:52
 	android:screenOrientation
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:84:13-49
 	android:name
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:83:13-52
-activity#com.SelfTourGuide.singapore.ui.EntertainmentInfoActivity
+activity#com.SelfTourGuide.bangkok.ui.EntertainmentInfoActivity
 ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:85:9-87:52
 	android:screenOrientation
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:87:13-49
 	android:name
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:86:13-57
-activity#com.SelfTourGuide.singapore.ui.WebViewActivity
+activity#com.SelfTourGuide.bangkok.ui.WebViewActivity
 ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:89:9-90:58
 	android:screenOrientation
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:90:9-45
 	android:name
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:89:19-53
-activity#com.SelfTourGuide.singapore.base.BaseActivity
+activity#com.SelfTourGuide.bangkok.base.BaseActivity
 ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:92:9-64
 	android:name
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:92:19-52
@@ -319,7 +319,7 @@ ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAd
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:109:13-67
 activity#com.facebook.ads.AudienceNetworkActivity
 ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:111:9-113:77
-MERGED from [com.facebook.android:audience-network-sdk:4.99.1] /Users/wangyuelin/.android/build-cache/36bed8e0e59f78037eb7f656feadc3e4402c0aa1/output/AndroidManifest.xml:15:9-17:77
+MERGED from [com.facebook.android:audience-network-sdk:4.99.3] /Users/wangyuelin/.android/build-cache/f4941c8262a27ec86a72b1246cab9d5798febd14/output/AndroidManifest.xml:15:9-17:77
 	android:configChanges
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:113:13-74
 	android:name
@@ -370,7 +370,7 @@ ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAd
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:142:13-83
 	android:name
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:140:13-74
-activity#com.SelfTourGuide.singapore.ui.DownProApp
+activity#com.SelfTourGuide.bangkok.ui.DownProApp
 ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:144:9-145:62
 	android:screenOrientation
 		ADDED from /Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/AndroidManifest.xml:145:13-49
@@ -424,7 +424,7 @@ MERGED from [com.google.android.gms:play-services-wallet:11.0.1] /Users/wangyuel
 MERGED from [com.google.android.gms:play-services-identity:11.0.1] /Users/wangyuelin/.android/build-cache/3f3449df461f91162bcb9bb6663b7062e26b923d/output/AndroidManifest.xml:17:5-43
 MERGED from [com.google.android.gms:play-services-maps:11.0.1] /Users/wangyuelin/.android/build-cache/08bab1f9010a96fdc3c57069d42b97800c258ed2/output/AndroidManifest.xml:23:5-43
 MERGED from [com.google.android.gms:play-services-wearable:11.0.1] /Users/wangyuelin/.android/build-cache/71d4a93609a53e09494bb3145aeb13d86e43b74a/output/AndroidManifest.xml:17:5-43
-MERGED from [com.facebook.android:audience-network-sdk:4.99.1] /Users/wangyuelin/.android/build-cache/36bed8e0e59f78037eb7f656feadc3e4402c0aa1/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:4.99.3] /Users/wangyuelin/.android/build-cache/f4941c8262a27ec86a72b1246cab9d5798febd14/output/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] /Users/wangyuelin/.android/build-cache/c0d39ea2234b0cf07c01fb51dd6e2283362fd052/output/AndroidManifest.xml:21:5-23:41
 MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] /Users/wangyuelin/.android/build-cache/0587ea8cedb1d48396ff7ef13a3cf8f95d64b385/output/AndroidManifest.xml:21:5-23:41
 MERGED from [com.google.ads.mediation:facebook:4.23.0.0] /Users/wangyuelin/.android/build-cache/1bcb8dbae6bd7aa846b19c8297fac5be6e84e3b9/output/AndroidManifest.xml:8:5-10:41

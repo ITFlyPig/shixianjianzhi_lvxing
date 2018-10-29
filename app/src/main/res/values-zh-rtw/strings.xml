@@ -5,7 +5,7 @@
     <string name="cancecollection">取消收藏</string>
     <string name="notnet">未連接網絡</string>
     <string name="proposed_price">參考價格</string>
-    <string name="app_name">新加坡旅遊攻略</string>
+    <string name="app_name">曼谷旅遊攻略</string>
     <string name="Feedbacknotemil">未添加賬戶，請在系統添加賬戶後再發送郵件；OK</string>
     <string name="sharelocaltxt">我发现一个不错的應用程式“北京自助旅遊”https://itunes.apple.com/us/app/self-tour-guide-for-beijing/id1071690742?l=zh&amp;ls=1&amp;mt=8</string>
     <string name="comment">给應用程式评分</string>
@@ -38,13 +38,14 @@
     <string name="intro">簡介</string>
 
 
-    <string name="downtitle">免費試用PRO版7天</string>
+    <string name="downtitle">免費幹掉廣告</string>
     <string name="one">無廣告</string>
     <string name="two">離線地鐵圖</string>
     <string name="three">無需聯網，完全離線使用，不費流量</string>
 
     <string name="privacy">隱私政策</string>
     <string name="terms_of_use">使用條款</string>
+    <string name="remove_ad">幹掉廣告</string>
 
 
 

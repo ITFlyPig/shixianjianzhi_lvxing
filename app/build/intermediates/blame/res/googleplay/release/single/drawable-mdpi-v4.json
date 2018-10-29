@@ -4,12 +4,12 @@
         "source": "/Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/res/drawable-mdpi-v4/ic_audiotrack_light.png"
     },
     {
-        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-mdpi-v4/ic_vol_type_tv_dark.png",
-        "source": "/Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/res/drawable-mdpi-v4/ic_vol_type_tv_dark.png"
-    },
-    {
         "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-mdpi-v4/googleg_disabled_color_18.png",
         "source": "/Users/wangyuelin/.android/build-cache/f0557171bc58a69d075dee3d40e411496d70192e/output/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-mdpi-v4/ic_vol_type_tv_dark.png",
+        "source": "/Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/res/drawable-mdpi-v4/ic_vol_type_tv_dark.png"
     },
     {
         "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
@@ -32,12 +32,12 @@
         "source": "/Users/wangyuelin/.android/build-cache/d516cabfb86297e6c82b18c7a5849ce5f3a87d2e/output/res/drawable-mdpi-v4/ic_media_play_light.png"
     },
     {
-        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-mdpi-v4/quantum_ic_stop_grey600_36.png",
-        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable-mdpi-v4/quantum_ic_stop_grey600_36.png"
-    },
-    {
         "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-mdpi-v4/abc_ic_star_black_48dp.png",
         "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-mdpi-v4/quantum_ic_stop_grey600_36.png",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable-mdpi-v4/quantum_ic_stop_grey600_36.png"
     },
     {
         "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png",
@@ -64,12 +64,12 @@
         "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable-mdpi-v4/quantum_ic_forward_10_white_24.png"
     },
     {
-        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-mdpi-v4/design_ic_visibility_off.png",
-        "source": "/Users/wangyuelin/.android/build-cache/df44f194bb5ff705a7e652e6fb909f82df5578cf/output/res/drawable-mdpi-v4/design_ic_visibility_off.png"
-    },
-    {
         "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
         "source": "/Users/wangyuelin/.android/build-cache/5e5bb24a6e7609a72f88139a09189fdb5eaa1668/output/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-mdpi-v4/design_ic_visibility_off.png",
+        "source": "/Users/wangyuelin/.android/build-cache/df44f194bb5ff705a7e652e6fb909f82df5578cf/output/res/drawable-mdpi-v4/design_ic_visibility_off.png"
     },
     {
         "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-mdpi-v4/quantum_ic_stop_grey600_48.png",

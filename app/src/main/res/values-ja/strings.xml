@@ -3,7 +3,7 @@
 
     <string name="cancecollection">It has been removed from favorites.</string>
     <string name="proposed_price">価格帯</string>
-    <string name="app_name">シンガポール観光ガイド</string>
+    <string name="app_name">バンコク観光ガイド</string>
     <string name="Feedbacknotemil">No found mail account.Please add mail in settings of system；OK</string>
     <string name="sharelocaltxt">Try out this tour guide app "北京観光ガイド".https://itunes.apple.com/us/app/self-tour-guide-for-beijing/id1071690742?l=zh&amp;ls=1&amp;mt=8</string>
     <string name="comment">このアプリケーションを評価</string>
@@ -35,7 +35,8 @@
     <string name="shop">買物</string>
     <string name="entertainment">エンターテイメント</string>
     <string name="intro">簡単な紹介</string>
-    <string name="downtitle">トライアル7日間無料</string>
+    <string name="downtitle">広告を消す無料</string>
+    <string name="remove_ad">広告を消す</string>
 
 
 

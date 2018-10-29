@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/appbg"
     xmlns:ads="http://schemas.android.com/apk/res-auto"
-    tools:context="com.SelfTourGuide.singapore.ui.HotelInfoActivity">
+    tools:context="com.SelfTourGuide.bangkok.ui.HotelInfoActivity">
 
         <RelativeLayout
             android:id="@+id/relative"
@@ -87,7 +87,7 @@
             android:layout_height="wrap_content" />
     </LinearLayout>
 
-    <com.SelfTourGuide.singapore.util.OverScrollView
+    <com.SelfTourGuide.bangkok.util.OverScrollView
         android:layout_below="@+id/line"
         android:id="@+id/scrollIndicatorUp"
         android:scrollbars="none"
@@ -409,7 +409,7 @@
                 </RelativeLayout>
             </RelativeLayout>
         </LinearLayout>
-    </com.SelfTourGuide.singapore.util.OverScrollView>
+    </com.SelfTourGuide.bangkok.util.OverScrollView>
     <com.google.android.gms.ads.AdView
         android:id="@+id/adView"
         android:hardwareAccelerated="true"

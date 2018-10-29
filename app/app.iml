@@ -188,7 +188,6 @@
     <orderEntry type="library" exported="" name="Gradle: com.google.android.gms:play-services-vision-common-11.0.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:palette-v7-25.2.0" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:transition-26.1.0" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: com.facebook.android:audience-network-sdk-4.99.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.google.firebase:firebase-storage-11.0.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:appcompat-v7-26.1.0" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.google.android.gms:play-services-basement-11.0.1" level="project" />
@@ -213,6 +212,7 @@
     <orderEntry type="library" exported="" name="Gradle: com.google.android.gms:play-services-11.0.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.google.android.gms:play-services-auth-11.0.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: net.zetetic:android-database-sqlcipher-3.5.4" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.facebook.android:audience-network-sdk-4.99.3" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.google.firebase:firebase-analytics-11.0.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.google.android.gms:play-services-analytics-11.0.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.google.android.exoplayer:exoplayer-core-r2.4.2" level="project" />

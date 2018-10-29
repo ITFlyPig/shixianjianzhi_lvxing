@@ -89,7 +89,7 @@ public final class R {
         public static final int common_open_on_phone = 0x7f080046;
         public static final int common_signin_button_text = 0x7f080047;
         public static final int common_signin_button_text_long = 0x7f080048;
-        public static final int mmadsdk_app_name = 0x7f0800b2;
+        public static final int mmadsdk_app_name = 0x7f0800b5;
     }
     public static final class style {
         public static final int Theme_IAPTheme = 0x7f0a0142;

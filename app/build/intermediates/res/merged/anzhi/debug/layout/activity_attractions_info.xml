@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/appbg"
-    tools:context="com.SelfTourGuide.singapore.ui.AttractionsInfoActivity">
+    tools:context="com.SelfTourGuide.bangkok.ui.AttractionsInfoActivity">
 
     <RelativeLayout
         android:id="@+id/relative"
@@ -67,7 +67,7 @@
         android:background="@color/navigation_line"
         />
 
-    <com.SelfTourGuide.singapore.util.OverScrollView
+    <com.SelfTourGuide.bangkok.util.OverScrollView
         android:id="@+id/scrollIndicatorUp"
         android:layout_below="@id/line"
         android:layout_marginBottom="50dp"
@@ -432,7 +432,7 @@
 
             </RelativeLayout>
         </LinearLayout>
-   </com.SelfTourGuide.singapore.util.OverScrollView>
+   </com.SelfTourGuide.bangkok.util.OverScrollView>
     <LinearLayout
         android:id="@+id/ll_empty_img"
         android:layout_width="match_parent"

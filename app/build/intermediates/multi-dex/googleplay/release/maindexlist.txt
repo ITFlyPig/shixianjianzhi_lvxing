@@ -1,6 +1,7 @@
 android/support/v7/widget/SnapHelper.class
 com/google/android/gms/internal/zzho.class
 android/support/annotation/VisibleForTesting.class
+com/SelfTourGuide/bangkok/fragment/MainTab04.class
 android/support/v4/media/session/MediaSessionCompatApi21.class
 com/google/android/gms/wallet/fragment/WalletFragmentStyle$BuyButtonText.class
 com/google/android/exoplayer2/drm/DrmSession$DrmSessionException.class
@@ -32,7 +33,6 @@ android/support/v4/view/ViewCompat$ViewCompatApi24Impl.class
 com/google/android/gms/internal/zzayy.class
 com/android/billingclient/api/SkuDetails.class
 android/support/v7/widget/RecyclerView$ItemAnimator.class
-com/SelfTourGuide/singapore/ui/HotelActivity.class
 com/google/ads/mediation/customevent/CustomEventListener.class
 android/support/transition/VisibilityPropagation.class
 android/support/v4/app/ActionBarDrawerToggle.class
@@ -66,6 +66,8 @@ android/support/multidex/MultiDexExtractor$1.class
 com/google/android/gms/appindexing/Action.class
 android/support/v7/graphics/drawable/DrawerArrowDrawable.class
 com/google/android/gms/wallet/InstrumentInfo.class
+com/SelfTourGuide/bangkok/ui/ShoppingActivity.class
+com/SelfTourGuide/bangkok/base/BaseApplication.class
 com/android/billingclient/api/SkuDetailsParams.class
 com/google/android/gms/internal/zzbzt.class
 com/google/android/exoplayer2/extractor/PositionHolder.class
@@ -130,6 +132,7 @@ com/google/android/gms/internal/zzajn.class
 android/support/v4/view/AccessibilityDelegateCompat.class
 com/android/billingclient/api/ProxyBillingActivity.class
 android/support/annotation/StringRes.class
+com/SelfTourGuide/bangkok/ui/RestaurantActivity.class
 com/google/android/exoplayer2/audio/AudioRendererEventListener.class
 android/support/v4/app/NotificationCompatBase$UnreadConversation$Factory.class
 android/support/v4/app/FrameMetricsAggregator$1.class
@@ -154,7 +157,7 @@ com/google/android/gms/internal/zzaka.class
 android/support/v4/app/NotificationBuilderWithBuilderAccessor.class
 com/google/android/gms/internal/zzadi.class
 android/arch/lifecycle/Lifecycle$Event.class
-com/SelfTourGuide/singapore/ui/ShoppingInfoActivity.class
+com/SelfTourGuide/bangkok/fragment/FragmentMainActivity.class
 com/google/android/gms/internal/zzrl.class
 com/millennialmedia/internal/video/VPAIDWebView.class
 android/support/v7/widget/RecyclerView$AdapterDataObserver.class
@@ -230,7 +233,6 @@ com/google/android/exoplayer2/extractor/mp4/Track.class
 com/android/billingclient/api/SkuDetails$SkuDetailsResult.class
 android/support/v4/app/NotificationCompatBase.class
 android/support/v7/widget/RecyclerView$State.class
-com/SelfTourGuide/singapore/fragment/FragmentMainActivity.class
 android/support/annotation/HalfFloat.class
 com/google/android/gms/internal/zzccp.class
 android/support/v7/widget/RecyclerView$SmoothScroller.class
@@ -324,10 +326,10 @@ android/arch/lifecycle/Lifecycle$State.class
 com/google/android/gms/internal/zzgz.class
 android/support/transition/ViewUtils.class
 com/google/android/exoplayer2/drm/DrmSession.class
-com/SelfTourGuide/singapore/ui/ShoppingActivity.class
 com/google/android/exoplayer2/extractor/ts/SectionPayloadReader.class
 com/google/android/exoplayer2/Renderer.class
 com/google/android/gms/internal/zzaiw.class
+com/SelfTourGuide/bangkok/fragment/MainTab01.class
 android/support/transition/Transition$2.class
 android/support/annotation/XmlRes.class
 com/google/android/gms/internal/zzlx.class
@@ -340,6 +342,7 @@ com/google/android/gms/internal/zzxw.class
 com/google/android/gms/ads/internal/js/JavascriptEngineFactory.class
 android/support/v4/view/ViewCompat$FocusDirection.class
 com/google/android/gms/internal/zzfg.class
+com/SelfTourGuide/bangkok/ui/RestaurantInfoActivity.class
 com/google/android/gms/internal/zzgu.class
 com/google/android/gms/internal/zzzm.class
 com/google/android/exoplayer2/extractor/mkv/MatroskaExtractor$InnerEbmlReaderOutput.class
@@ -363,6 +366,7 @@ android/support/v4/net/ConnectivityManagerCompat$ConnectivityManagerCompatImpl.c
 butterknife/OnPageChange$Callback.class
 com/android/billingclient/api/BillingClientStateListener.class
 com/google/android/gms/internal/zzzh.class
+com/SelfTourGuide/bangkok/ui/AttractionsActivity.class
 com/google/android/gms/internal/zzue.class
 com/android/billingclient/api/ConsumeResponseListener.class
 android/support/multidex/MultiDex$V14.class
@@ -377,6 +381,7 @@ com/google/android/gms/common/internal/zzad.class
 android/support/v7/widget/ViewInfoStore$ProcessCallback.class
 com/google/android/gms/internal/zzxq.class
 com/google/android/gms/nearby/messages/internal/zzf.class
+com/SelfTourGuide/bangkok/fragment/MainTab02.class
 com/google/android/gms/nearby/messages/Message.class
 com/google/android/gms/ads/internal/overlay/zzaa.class
 android/support/v4/content/res/TypedArrayUtils.class
@@ -395,6 +400,7 @@ android/support/v4/util/Pools.class
 android/support/design/widget/BottomSheetBehavior$BottomSheetCallback.class
 android/support/design/widget/CoordinatorLayout$DispatchChangeEvent.class
 com/google/android/gms/cast/framework/media/ImagePicker.class
+com/SelfTourGuide/bangkok/ui/HotelActivity.class
 com/google/android/gms/ads/formats/zza.class
 android/support/v4/app/RemoteInput.class
 com/google/android/exoplayer2/drm/DefaultDrmSessionManager$PostResponseHandler.class
@@ -416,7 +422,6 @@ com/google/android/gms/internal/zzew.class
 com/google/android/gms/internal/zzakn.class
 com/google/android/exoplayer2/extractor/mp4/DefaultSampleValues.class
 com/google/android/gms/internal/zzacn.class
-com/SelfTourGuide/singapore/ui/RestaurantActivity.class
 com/google/android/gms/internal/zznu.class
 android/support/annotation/ColorInt.class
 android/support/annotation/RawRes.class
@@ -500,6 +505,7 @@ android/support/v4/util/ArrayMap$1.class
 com/google/android/gms/internal/zzlt.class
 com/google/android/gms/nearby/messages/Distance$Accuracy.class
 com/google/android/gms/internal/zzhm.class
+com/SelfTourGuide/bangkok/ui/HotelInfoActivity.class
 android/support/v7/widget/ListPopupWindow.class
 android/support/v4/view/animation/FastOutSlowInInterpolator.class
 com/google/ads/mediation/customevent/CustomEventBannerListener.class
@@ -662,7 +668,6 @@ com/google/android/gms/internal/zzhk.class
 com/google/android/gms/common/internal/safeparcel/zzd.class
 butterknife/internal/ListenerClass$NONE.class
 com/google/android/gms/internal/zzky.class
-com/SelfTourGuide/singapore/ui/EntertainmentInfoActivity.class
 android/support/v7/widget/RecyclerView$ItemAnimatorRestoreListener.class
 com/google/android/gms/internal/zzrq.class
 com/google/android/gms/nearby/messages/internal/zzbe.class
@@ -690,7 +695,7 @@ android/support/v4/view/NestedScrollingParent2.class
 com/google/android/gms/internal/zzlf.class
 com/google/android/gms/internal/zzyg.class
 com/google/android/gms/common/internal/safeparcel/zzb.class
-com/SelfTourGuide/singapore/R.class
+com/SelfTourGuide/bangkok/util/StatusBarUtil.class
 android/support/v4/internal/view/SupportMenuItem.class
 com/moat/analytics/mobile/aol/base/annotation/NonNull.class
 com/google/android/gms/wallet/fragment/WalletFragmentStyle$BuyButtonAppearance.class
@@ -713,6 +718,7 @@ com/google/android/gms/wallet/Wallet.class
 com/google/android/exoplayer2/upstream/HttpDataSource$RequestProperties.class
 android/support/v4/app/NotificationBuilderWithActions.class
 com/google/android/apps/common/proguard/UsedByNative.class
+com/SelfTourGuide/bangkok/util/Advertisement.class
 android/support/v4/app/FragmentManager.class
 com/google/android/gms/internal/zzajs.class
 com/android/billingclient/util/BillingHelper.class
@@ -741,6 +747,7 @@ com/google/android/gms/internal/zzry.class
 android/support/design/widget/FloatingActionButton$ShadowDelegateImpl.class
 com/google/android/gms/internal/zzajx.class
 com/google/firebase/auth/ActionCodeResult$Operation.class
+com/SelfTourGuide/bangkok/ui/EntertainmentInfoActivity.class
 android/support/v4/media/session/PlaybackStateCompat$CustomAction.class
 android/support/design/widget/BottomSheetBehavior$1.class
 com/google/android/gms/appinvite/AppInviteInvitation.class
@@ -783,6 +790,7 @@ com/google/android/gms/internal/zzhs.class
 android/support/v4/media/MediaBrowserCompat$SubscriptionCallback.class
 android/support/v4/print/PrintHelper$ColorMode.class
 android/support/v7/widget/RecyclerView$6.class
+com/SelfTourGuide/bangkok/ui/OverViewActivity.class
 android/support/v4/view/ViewCompat$ViewCompatApi19Impl.class
 com/google/android/gms/wearable/MessageApi$SendMessageResult.class
 com/google/android/gms/wearable/MessageApi$FilterType.class
@@ -791,7 +799,6 @@ com/google/android/gms/internal/zzru.class
 android/support/v4/view/MenuCompat.class
 android/support/compat/R.class
 android/support/annotation/IdRes.class
-com/SelfTourGuide/singapore/ui/WebViewActivity.class
 com/google/android/gms/internal/zzir.class
 com/google/android/gms/nearby/messages/internal/zzj.class
 com/google/android/gms/internal/zzaat.class
@@ -851,7 +858,6 @@ com/google/android/exoplayer2/text/TextRenderer$Output.class
 android/support/v7/app/ActionBar$OnNavigationListener.class
 android/support/v4/view/accessibility/AccessibilityNodeProviderCompat.class
 android/support/v7/appcompat/R.class
-com/SelfTourGuide/singapore/ui/RestaurantInfoActivity.class
 android/support/v7/view/menu/CascadingMenuPopup$1.class
 com/google/android/gms/fitness/FitnessStatusCodes.class
 com/google/android/gms/internal/zzaaj.class
@@ -859,8 +865,8 @@ com/google/android/gms/common/internal/safeparcel/zza.class
 android/support/v7/widget/RecyclerView$1.class
 android/support/annotation/Nullable.class
 com/google/ads/AdSize.class
-com/SelfTourGuide/singapore/base/BaseApplication.class
 com/google/android/exoplayer2/extractor/mp4/Track$Transformation.class
+com/SelfTourGuide/bangkok/ui/ShoppingInfoActivity.class
 android/support/annotation/RequiresPermission$Read.class
 android/support/transition/Slide$4.class
 android/support/v4/app/NotificationCompat$NotificationVisibility.class
@@ -951,7 +957,6 @@ com/google/android/gms/ads/internal/overlay/zzaq.class
 android/support/v4/print/PrintHelper$ScaleMode.class
 com/google/ads/mediation/MediationAdRequest.class
 com/google/android/gms/wearable/DataApi$GetFdForAssetResult.class
-com/SelfTourGuide/singapore/ui/StartActivity.class
 android/support/v4/media/session/MediaSessionCompat$Token.class
 com/android/billingclient/api/BillingClient$FeatureType.class
 com/google/android/exoplayer2/util/Util.class
@@ -981,6 +986,7 @@ android/support/v4/media/MediaBrowserCompat$MediaBrowserServiceCallbackImpl.clas
 com/google/android/gms/maps/GoogleMap$OnMyLocationChangeListener.class
 com/google/android/gms/internal/zzcdv.class
 android/support/v4/media/session/MediaSessionCompat$MediaSessionImplApi19.class
+com/SelfTourGuide/bangkok/ui/EntertainmentActivity.class
 android/support/v4/util/MapCollections.class
 android/support/transition/Visibility.class
 android/support/design/widget/TabItem.class
@@ -1083,7 +1089,6 @@ com/google/android/gms/common/zzo.class
 android/support/design/widget/TabLayout$ViewPagerOnTabSelectedListener.class
 com/google/android/exoplayer2/extractor/ts/TsExtractor$PmtReader.class
 com/google/android/gms/ads/MobileAds$Settings.class
-com/SelfTourGuide/singapore/R$string.class
 android/support/v4/net/ConnectivityManagerCompat.class
 android/support/annotation/RequiresPermission.class
 com/google/android/exoplayer2/extractor/ts/Id3Reader.class
@@ -1091,12 +1096,11 @@ android/support/v4/view/MenuItemCompat.class
 android/support/transition/Visibility$Mode.class
 com/google/android/gms/wallet/fragment/WalletFragmentStyle.class
 android/support/design/widget/HeaderBehavior.class
+com/SelfTourGuide/bangkok/ui/WebViewActivity.class
 com/google/android/gms/internal/zzxz.class
 android/support/v4/widget/SearchViewCompat.class
 android/support/v4/app/NotificationCompat$Action.class
 android/support/v4/view/ViewCompat$NestedScrollType.class
-com/SelfTourGuide/singapore/util/StatusBarUtil.class
-com/SelfTourGuide/singapore/util/Advertisement.class
 com/google/android/gms/internal/zzun.class
 com/google/android/gms/wearable/CapabilityApi$NodeFilterType.class
 android/support/v4/widget/TextViewCompat.class
@@ -1143,6 +1147,7 @@ com/google/android/gms/internal/zzakv.class
 android/support/v4/view/ViewConfigurationCompat.class
 com/google/android/gms/internal/zzafs.class
 com/google/android/gms/location/LocationStatusCodes.class
+com/SelfTourGuide/bangkok/R.class
 com/google/android/exoplayer2/extractor/ChunkIndex.class
 com/google/android/exoplayer2/extractor/ExtractorOutput.class
 android/support/design/widget/CoordinatorLayout$ViewElevationComparator.class
@@ -1156,21 +1161,21 @@ com/google/android/gms/internal/zzaoa.class
 android/support/v7/widget/GapWorker.class
 com/google/android/gms/internal/zzaca.class
 com/google/android/gms/internal/zzafm.class
-com/SelfTourGuide/singapore/ui/AttractionsActivity.class
 com/google/android/gms/internal/zzns.class
 com/google/android/gms/internal/zzahd.class
 com/google/android/gms/ads/formats/NativeAdOptions.class
-com/SelfTourGuide/singapore/ui/AttractionsInfoActivity.class
 com/google/android/exoplayer2/drm/DefaultDrmSessionManager$2.class
 android/support/design/widget/ViewUtils.class
 android/support/v4/media/session/MediaSessionCompat$SessionFlags.class
 com/google/android/gms/internal/zznl.class
+com/SelfTourGuide/bangkok/ui/IntroductionActivity.class
 android/support/v4/view/ViewCompat$ViewCompatBaseImpl.class
 android/support/v4/app/NotificationCompat$Builder.class
 com/google/android/gms/internal/zzud.class
 com/google/android/exoplayer2/extractor/mkv/DefaultEbmlReader.class
 com/google/android/gms/nearby/connection/Payload$Type.class
 android/support/v7/app/AppCompatDelegateImplV11.class
+com/SelfTourGuide/bangkok/ui/DownProApp.class
 com/google/android/exoplayer2/text/cea/CeaUtil.class
 android/support/v7/widget/RecyclerView$ChildDrawingOrderCallback.class
 android/support/v7/media/MediaRouteDescriptor$Builder.class
@@ -1216,6 +1221,7 @@ android/support/v4/media/MediaBrowserCompat$MediaBrowserImplApi23.class
 com/android/billingclient/api/PurchaseHistoryResponseListener.class
 com/google/android/gms/ads/internal/zzbt.class
 com/google/android/gms/internal/zzacf.class
+com/SelfTourGuide/bangkok/R$string.class
 android/support/transition/Transition$AnimationInfo.class
 com/google/android/gms/ads/mediation/customevent/CustomEventExtras.class
 com/google/android/gms/drive/DriveApi.class
@@ -1234,6 +1240,7 @@ com/google/android/gms/cast/RemoteMediaPlayer$OnQueueStatusUpdatedListener.class
 com/facebook/ads/InterstitialAdActivity.class
 android/support/v7/widget/RecyclerView$ItemAnimator$ItemHolderInfo.class
 com/google/android/exoplayer2/util/Predicate.class
+com/SelfTourGuide/bangkok/fragment/MainTab03.class
 android/support/v4/media/RatingCompat$Style.class
 android/support/v7/app/AppCompatDelegate.class
 com/google/android/gms/common/api/Api$zzc.class
@@ -1262,8 +1269,8 @@ android/support/design/widget/AnimationUtils.class
 android/support/v7/widget/RecyclerView$AdapterDataObservable.class
 android/support/design/widget/BaseTransientBottomBar$2.class
 android/support/v7/view/menu/MenuBuilder$Callback.class
-android/support/v4/widget/DrawerLayout.class
 com/facebook/ads/internal/protocol/f.class
+android/support/v4/widget/DrawerLayout.class
 android/support/v4/media/session/PlaybackStateCompat$ShuffleMode.class
 com/google/android/gms/internal/zzbax.class
 com/google/android/gms/internal/zzaza.class
@@ -1313,7 +1320,6 @@ com/millennialmedia/MMSDK.class
 android/support/design/widget/FloatingActionButton.class
 com/google/android/gms/games/request/OnRequestReceivedListener.class
 com/google/android/gms/games/snapshot/SnapshotMetadata.class
-com/SelfTourGuide/singapore/ui/IntroductionActivity.class
 com/google/android/gms/internal/zzpm.class
 com/google/android/gms/internal/zzqf.class
 com/google/android/exoplayer2/util/LongArray.class
@@ -1361,6 +1367,7 @@ android/support/v4/view/LayoutInflaterFactory.class
 com/google/ads/AdRequest.class
 android/support/annotation/AnyThread.class
 com/google/android/gms/gcm/OneoffTask.class
+com/SelfTourGuide/bangkok/ui/AttractionsInfoActivity.class
 com/google/android/gms/ads/internal/overlay/zzas.class
 com/google/android/gms/internal/zzaef.class
 android/support/v4/math/MathUtils.class
@@ -1389,7 +1396,6 @@ com/google/android/gms/wearable/CapabilityApi$CapabilityFilterType.class
 android/support/v4/content/res/ConfigurationHelper.class
 com/google/android/gms/R$styleable.class
 android/support/v4/view/ViewCompat$ResolvedLayoutDirectionMode.class
-com/SelfTourGuide/singapore/ui/EntertainmentActivity.class
 com/google/android/gms/internal/zzabt.class
 com/google/android/gms/internal/zzaek.class
 com/google/android/gms/fitness/Fitness.class
@@ -1412,6 +1418,7 @@ android/support/v7/view/menu/CascadingMenuPopup$CascadingMenuInfo.class
 android/support/v7/widget/AdapterHelper.class
 com/google/android/gms/games/request/GameRequest.class
 android/support/v4/view/ViewCompat$LayerType.class
+com/SelfTourGuide/bangkok/ui/StartActivity.class
 android/support/v4/media/MediaBrowserCompatApi21.class
 com/google/android/gms/analytics/ecommerce/ProductAction.class
 android/support/design/widget/CoordinatorLayout$LayoutParams.class
@@ -1515,7 +1522,6 @@ com/google/android/gms/ads/internal/overlay/zzq.class
 com/google/android/gms/analytics/HitBuilders$AppViewBuilder.class
 android/support/v4/media/AudioAttributesCompat$AttributeContentType.class
 com/google/android/gms/fitness/data/WorkoutExercises.class
-com/SelfTourGuide/singapore/ui/HotelInfoActivity.class
 android/support/v7/widget/RecyclerViewAccessibilityDelegate.class
 android/support/v4/content/res/FontResourcesParserCompat$FamilyResourceEntry.class
 com/google/android/exoplayer2/metadata/id3/Id3Decoder.class
@@ -1618,7 +1624,6 @@ android/support/design/widget/CoordinatorLayout$1.class
 android/support/annotation/Px.class
 com/google/android/gms/ads/search/SearchAdRequest.class
 com/google/android/gms/ads/internal/overlay/zzd.class
-com/SelfTourGuide/singapore/ui/OverViewActivity.class
 com/google/android/gms/fitness/data/Goal$MetricObjective.class
 com/google/android/gms/internal/zzcaa.class
 com/google/android/exoplayer2/C$CryptoMode.class
@@ -1677,7 +1682,6 @@ com/google/android/gms/internal/zzaev.class
 android/support/v4/view/GravityCompat.class
 com/google/android/gms/common/api/Api$zza.class
 com/google/android/gms/internal/zztm.class
-com/SelfTourGuide/singapore/ui/DownProApp.class
 com/google/android/gms/common/api/Api$zzb.class
 android/support/v7/view/menu/MenuPopup.class
 com/google/android/gms/internal/zzmu.class

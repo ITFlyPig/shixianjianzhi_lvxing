@@ -23,7 +23,7 @@
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"접기"</string>
     <string name="address">주소</string>
     <string name="all">모든</string>
-    <string name="app_name">싱가포르 자유 여행</string>
+    <string name="app_name">방콕 자유 여행</string>
     <string name="attractions">관광 명소</string>
     <string name="call">요구</string>
     <string name="cance">취소</string>
@@ -86,6 +86,7 @@
     <string msgid="3441753203274453993" name="common_signin_button_text">"로그인"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Google 계정으로 로그인"</string>
     <string name="doorprice">티켓</string>
+    <string name="downtitle">광고 삭제 무료</string>
     <string name="entertainment">환대</string>
     <string name="gl">해적</string>
     <string name="hotel">호텔</string>
@@ -121,6 +122,7 @@
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"검색"</string>
     <string name="play_time">때 플레이 긴</string>
     <string name="proposed_price">가격</string>
+    <string name="remove_ad">광고 삭제</string>
     <string name="restaurant">레스토랑</string>
     <string msgid="368094699078615544" name="s1">"이미지 저장"</string>
     <string msgid="4550830452390689489" name="s2">"광고에서 사진 갤러리에 이미지를 저장하도록 허용하시겠습니까?"</string>

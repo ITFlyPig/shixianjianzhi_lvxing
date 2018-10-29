@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.SelfTourGuide.singapore"
-    android:versionCode="4"
-    android:versionName="1.4" >
+    package="com.SelfTourGuide.bangkok"
+    android:versionCode="2"
+    android:versionName="1.1" >
 
     <uses-sdk
         android:minSdkVersion="19"
@@ -45,18 +45,18 @@
     <uses-permission android:name="com.android.vending.BILLING" />
 
     <permission
-        android:name="com.SelfTourGuide.singapore.permission.C2D_MESSAGE"
+        android:name="com.SelfTourGuide.bangkok.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.SelfTourGuide.singapore.permission.C2D_MESSAGE" /> <!-- android:largeHeap="true" -->
+    <uses-permission android:name="com.SelfTourGuide.bangkok.permission.C2D_MESSAGE" /> <!-- android:largeHeap="true" -->
     <application
-        android:name="com.SelfTourGuide.singapore.base.BaseApplication"
+        android:name="com.SelfTourGuide.bangkok.base.BaseApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:theme="@android:style/Theme.Black.NoTitleBar" >
         <activity
-            android:name="com.SelfTourGuide.singapore.ui.StartActivity"
+            android:name="com.SelfTourGuide.bangkok.ui.StartActivity"
             android:label="@string/app_name"
             android:theme="@android:style/Theme.Black.NoTitleBar" >
             <intent-filter>
@@ -66,53 +66,53 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.SelfTourGuide.singapore.fragment.FragmentMainActivity"
+            android:name="com.SelfTourGuide.bangkok.fragment.FragmentMainActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.SelfTourGuide.singapore.ui.OverViewActivity"
+            android:name="com.SelfTourGuide.bangkok.ui.OverViewActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.SelfTourGuide.singapore.ui.AttractionsActivity"
+            android:name="com.SelfTourGuide.bangkok.ui.AttractionsActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.SelfTourGuide.singapore.ui.AttractionsInfoActivity"
+            android:name="com.SelfTourGuide.bangkok.ui.AttractionsInfoActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.SelfTourGuide.singapore.ui.IntroductionActivity"
+            android:name="com.SelfTourGuide.bangkok.ui.IntroductionActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.SelfTourGuide.singapore.ui.HotelActivity"
+            android:name="com.SelfTourGuide.bangkok.ui.HotelActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.SelfTourGuide.singapore.ui.RestaurantActivity"
+            android:name="com.SelfTourGuide.bangkok.ui.RestaurantActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.SelfTourGuide.singapore.ui.ShoppingActivity"
+            android:name="com.SelfTourGuide.bangkok.ui.ShoppingActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.SelfTourGuide.singapore.ui.EntertainmentActivity"
+            android:name="com.SelfTourGuide.bangkok.ui.EntertainmentActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.SelfTourGuide.singapore.ui.HotelInfoActivity"
+            android:name="com.SelfTourGuide.bangkok.ui.HotelInfoActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.SelfTourGuide.singapore.ui.RestaurantInfoActivity"
+            android:name="com.SelfTourGuide.bangkok.ui.RestaurantInfoActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.SelfTourGuide.singapore.ui.ShoppingInfoActivity"
+            android:name="com.SelfTourGuide.bangkok.ui.ShoppingInfoActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.SelfTourGuide.singapore.ui.EntertainmentInfoActivity"
+            android:name="com.SelfTourGuide.bangkok.ui.EntertainmentInfoActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.SelfTourGuide.singapore.ui.WebViewActivity"
+            android:name="com.SelfTourGuide.bangkok.ui.WebViewActivity"
             android:screenOrientation="portrait" />
-        <activity android:name="com.SelfTourGuide.singapore.base.BaseActivity" />
+        <activity android:name="com.SelfTourGuide.bangkok.base.BaseActivity" />
 
         <!-- 友盟 -->
         <meta-data
             android:name="UMENG_APPKEY"
-            android:value="59479a198630f57804000c4b" />
+            android:value="59479a65cae7e753d80011fb" />
         <meta-data
             android:name="UMENG_CHANNEL"
             android:value="googleplay" />
@@ -159,7 +159,7 @@
             android:configChanges="keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize"
             android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
         <activity
-            android:name="com.SelfTourGuide.singapore.ui.DownProApp"
+            android:name="com.SelfTourGuide.bangkok.ui.DownProApp"
             android:screenOrientation="portrait" />
         <activity
             android:name="com.millennialmedia.internal.MMActivity"
@@ -219,7 +219,7 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
             android:exported="true"
             android:noHistory="true" > <!-- optional, removes the previewActivity from the activity stack. -->
             <intent-filter>
-                <data android:scheme="tagmanager.c.com.SelfTourGuide.singapore" />
+                <data android:scheme="tagmanager.c.com.SelfTourGuide.bangkok" />
 
                 <action android:name="android.intent.action.VIEW" />
 
@@ -273,7 +273,7 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
             <intent-filter>
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
 
-                <category android:name="com.SelfTourGuide.singapore" />
+                <category android:name="com.SelfTourGuide.bangkok" />
             </intent-filter>
         </receiver>
         <!--
@@ -297,7 +297,7 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.SelfTourGuide.singapore.firebaseinitprovider"
+            android:authorities="com.SelfTourGuide.bangkok.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
 

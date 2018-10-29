@@ -171,6 +171,7 @@ com/google/android/gms/games/leaderboard/LeaderboardVariant.class
 com/google/android/gms/common/internal/zzd.class
 android/support/annotation/ColorRes.class
 android/support/v4/widget/DrawerLayout$LockMode.class
+com/SelfTourGuide/singapore/fragment/MainTab04.class
 com/google/android/gms/games/multiplayer/turnbased/TurnBasedMultiplayer.class
 com/google/android/gms/internal/zzhe.class
 com/google/android/gms/internal/zzaaa.class
@@ -534,6 +535,7 @@ android/support/multidex/MultiDexApplication.class
 butterknife/BindColor.class
 android/support/v7/widget/RecyclerView$4.class
 com/google/android/gms/internal/zzye.class
+com/SelfTourGuide/singapore/fragment/MainTab02.class
 com/google/android/gms/fitness/data/Goal.class
 android/support/v4/media/AudioAttributesCompat$Builder.class
 org/greenrobot/eventbus/Subscribe.class
@@ -543,6 +545,7 @@ com/google/android/gms/internal/zzvl.class
 android/support/v7/widget/RecyclerView$OnFlingListener.class
 com/android/billingclient/api/BillingClientImpl$4.class
 com/google/android/exoplayer2/extractor/mkv/MatroskaExtractor.class
+com/SelfTourGuide/singapore/fragment/MainTab03.class
 com/google/android/gms/auth/api/credentials/CredentialPickerConfig$Prompt.class
 android/support/v7/widget/RecyclerView$ItemAnimator$AdapterChanges.class
 android/support/v7/widget/RecyclerView$3.class
@@ -647,6 +650,7 @@ com/android/billingclient/api/PurchasesUpdatedListener.class
 com/google/android/gms/internal/zzli.class
 android/support/v4/view/accessibility/AccessibilityManagerCompat.class
 android/support/design/widget/FloatingActionButtonImpl$InternalVisibilityChangedListener.class
+com/SelfTourGuide/singapore/fragment/MainTab01.class
 android/support/design/widget/DirectedAcyclicGraph.class
 android/support/design/widget/BaseTransientBottomBar$SnackbarBaseLayout.class
 com/google/android/gms/games/request/zzb.class
@@ -1262,8 +1266,8 @@ android/support/design/widget/AnimationUtils.class
 android/support/v7/widget/RecyclerView$AdapterDataObservable.class
 android/support/design/widget/BaseTransientBottomBar$2.class
 android/support/v7/view/menu/MenuBuilder$Callback.class
-android/support/v4/widget/DrawerLayout.class
 com/facebook/ads/internal/protocol/f.class
+android/support/v4/widget/DrawerLayout.class
 android/support/v4/media/session/PlaybackStateCompat$ShuffleMode.class
 com/google/android/gms/internal/zzbax.class
 com/google/android/gms/internal/zzaza.class
