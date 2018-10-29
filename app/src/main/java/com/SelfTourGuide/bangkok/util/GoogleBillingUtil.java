@@ -70,7 +70,7 @@ public class GoogleBillingUtil {
     private static final String TAG = "GoogleBillingUtil";
 
     public static String[] inAppSKUS = new String[]{};//内购ID,必填
-    public static String[] subsSKUS = new String[]{"bangkok_subscription_1month"};//订阅ID,必填
+    public static String[] subsSKUS = new String[]{"bangkok_subscription_02"};//订阅ID,必填
 
     public static final String BILLING_TYPE_INAPP = BillingClient.SkuType.INAPP;//内购
     public static final String BILLING_TYPE_SUBS = BillingClient.SkuType.SUBS;//订阅

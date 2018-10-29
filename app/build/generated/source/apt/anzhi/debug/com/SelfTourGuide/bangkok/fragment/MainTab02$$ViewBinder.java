@@ -12,10 +12,10 @@ public class MainTab02$$ViewBinder<T extends com.SelfTourGuide.bangkok.fragment.
     target.mUIllempty = finder.castView(view, 2131689694, "field 'mUIllempty'");
     view = finder.findRequiredView(source, 2131689696, "field 'mAdView'");
     target.mAdView = finder.castView(view, 2131689696, "field 'mAdView'");
-    view = finder.findRequiredView(source, 2131689862, "field 'LL'");
-    target.LL = finder.castView(view, 2131689862, "field 'LL'");
-    view = finder.findRequiredView(source, 2131689842, "field 'tvRemoveId'");
-    target.tvRemoveId = finder.castView(view, 2131689842, "field 'tvRemoveId'");
+    view = finder.findRequiredView(source, 2131689866, "field 'LL'");
+    target.LL = finder.castView(view, 2131689866, "field 'LL'");
+    view = finder.findRequiredView(source, 2131689846, "field 'tvRemoveId'");
+    target.tvRemoveId = finder.castView(view, 2131689846, "field 'tvRemoveId'");
   }
 
   @Override public void unbind(T target) {

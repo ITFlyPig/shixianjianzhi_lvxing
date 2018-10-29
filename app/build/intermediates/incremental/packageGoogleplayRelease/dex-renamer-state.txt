@@ -1,4 +1,4 @@
-#Sun Sep 02 18:43:06 CST 2018
+#Mon Oct 29 19:58:45 CST 2018
 base.0=/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/transforms/dex/googleplay/release/folders/1000/1f/main
 renamed.1=classes.dex
 renamed.0=classes2.dex

@@ -38,6 +38,7 @@
     <color name="accent_material_light">@color/material_deep_teal_500</color>
     <color name="alpha">#00000000</color>
     <color name="appbg">#f6f6f6</color>
+    <color name="appcolor">#0499ea</color>
     <color name="applistline">#e3dfdf</color>
     <color name="background">#ffffff</color>
     <color name="background_floating_material_dark">@color/material_grey_800</color>
@@ -1040,6 +1041,8 @@
     <string name="attractions">Attractions</string>
     <string name="bannerunit">ca-app-pub-4391447140300687/2165405634</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="btn_bottom">No,thanks</string>
+    <string name="btn_top">Try it now</string>
     <string name="call">Call</string>
     <string name="cance">Cancel</string>
     <string name="cancecollection">It has been removed from favorites.</string>
@@ -1104,8 +1107,10 @@
     <string name="common_open_on_phone">Open on phone</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="content">It is with great pleasure that we invite you to free trial PRO edition for 7days.PRO edition had removed all ads.</string>
     <string name="default_web_client_id" translatable="false">97959949310-aacqmcfgs36k8vb944kg863hss7vm8ae.apps.googleusercontent.com</string>
     <string name="delete">Delete</string>
+    <string name="dialog_title">Free trial program</string>
     <string name="dialogcontent">You must be connected to the internet to visit some page.</string>
     <string name="dialogtitle">No Internet Connection </string>
     <string name="doorprice">Ticket</string>

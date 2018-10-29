@@ -8,12 +8,12 @@
         "source": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/res/drawable-xxhdpi/strategyclick.png"
     },
     {
-        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-xxhdpi/mmadsdk_lightbox_down.png",
-        "source": "/Users/wangyuelin/.android/build-cache/b035fcdc86614906f6ea1d3b29f42c92885a68b9/output/res/drawable-xxhdpi/mmadsdk_lightbox_down.png"
-    },
-    {
         "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-xxhdpi/moreclick.png",
         "source": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/res/drawable-xxhdpi/moreclick.png"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-xxhdpi/mmadsdk_lightbox_down.png",
+        "source": "/Users/wangyuelin/.android/build-cache/b035fcdc86614906f6ea1d3b29f42c92885a68b9/output/res/drawable-xxhdpi/mmadsdk_lightbox_down.png"
     },
     {
         "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-xxhdpi/overview.png",
@@ -22,6 +22,10 @@
     {
         "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-xxhdpi/price.png",
         "source": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/res/drawable-xxhdpi/price.png"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-xxhdpi/icon_right.png",
+        "source": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/res/drawable-xxhdpi/icon_right.png"
     },
     {
         "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable-xxhdpi/mmadsdk_lightbox_replay.png",

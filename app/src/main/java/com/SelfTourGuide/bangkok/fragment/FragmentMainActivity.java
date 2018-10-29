@@ -1,13 +1,21 @@
 package com.SelfTourGuide.bangkok.fragment;
 
 import android.annotation.SuppressLint;
+import android.app.Dialog;
 import android.app.FragmentManager;
 import android.app.FragmentTransaction;
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
+import android.os.Handler;
+import android.support.v4.app.FragmentActivity;
 import android.text.TextUtils;
 import android.util.Log;
+import android.view.Gravity;
 import android.view.View;
 import android.view.View.OnClickListener;
+import android.view.Window;
+import android.view.WindowManager;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
@@ -64,6 +72,8 @@ public class FragmentMainActivity extends BaseActivity implements OnClickListene
         setTabSelection(0);
 
         checkSub();
+
+        showTip();
     }
 
     @Subscribe(threadMode = ThreadMode.MAIN)
@@ -342,5 +352,62 @@ public class FragmentMainActivity extends BaseActivity implements OnClickListene
         EventBus.getDefault().post(new PayStatusEvent());
     }
 
+    private Dialog dialog;
+    private View rating_but;
+    private View watch_video_ad_but;
+    private void showDialog(){
+        dialog= new Dialog(this,R.style.dialog);
+        View view = View.inflate(this, R.layout.dialogunlock, null);
+        rating_but = (TextView)view.findViewById(R.id.rating_but);
+        watch_video_ad_but = (TextView)view.findViewById(R.id.watch_video_ad_but);
+        rating_but.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (dialog != null) {
+                    dialog.dismiss();
+                }
+                Intent intent = new Intent(getBaseContext(), DownProApp.class);
+                startActivity(intent);
+
+            }
+        });
+        watch_video_ad_but.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (dialog != null) {
+                    dialog.dismiss();
+                }
+
+
+            }
+        });
+
+        dialog.requestWindowFeature(Window.FEATURE_NO_TITLE);
+        dialog.setContentView(view);
+        Window window = dialog.getWindow();
+        WindowManager.LayoutParams lp = window.getAttributes();
+        window.setGravity(Gravity.BOTTOM);
+        lp.width = LinearLayout.LayoutParams.FILL_PARENT;
+        lp.height = LinearLayout.LayoutParams.WRAP_CONTENT;
+        window.setAttributes(lp);
+        dialog.getWindow().setGravity(Gravity.CENTER);
+        dialog.setCancelable(false);
+        //点击dialog之外的区域禁止取消dialog
+        dialog.setCanceledOnTouchOutside(false);
+        dialog.show();
+
+    }
+
+    /**
+     * 显示提示
+     */
+    private void showTip() {
+        new Handler().postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                showDialog();
+            }
+        }, 1000 * 60);
+    }
 
 }

@@ -8,12 +8,12 @@
         "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_vector_test.xml"
     },
     {
-        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable/cast_ic_expanded_controller_skip_previous.xml",
-        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_expanded_controller_skip_previous.xml"
-    },
-    {
         "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable/progress_bar_states.xml",
         "source": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/res/drawable/progress_bar_states.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable/cast_ic_expanded_controller_skip_previous.xml",
+        "source": "/Users/wangyuelin/.android/build-cache/1783b66df5acbd7b62ae92dc8bc33e34855a5b4b/output/res/drawable/cast_ic_expanded_controller_skip_previous.xml"
     },
     {
         "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable/abc_item_background_holo_light.xml",
@@ -478,6 +478,10 @@
     {
         "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable/abc_dialog_material_background.xml",
         "source": "/Users/wangyuelin/.android/build-cache/f019b533b46d4c1fdf63c9ecf124f49593c33027/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable/haha.xml",
+        "source": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/src/main/res/drawable/haha.xml"
     },
     {
         "merged": "/Users/wangyuelin/Documents/工作文件/实现网/xinjiapoOverviewAds/app/build/intermediates/res/merged/googleplay/release/drawable/mr_vol_type_audiotrack_light.xml",

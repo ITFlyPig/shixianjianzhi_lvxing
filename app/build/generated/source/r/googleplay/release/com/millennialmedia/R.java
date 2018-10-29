@@ -16,8 +16,8 @@ public final class R {
         public static final int imageAspectRatioAdjust = 0x7f010133;
     }
     public static final class color {
-        public static final int mmadsdk_inline_video_controls_background = 0x7f0d004e;
-        public static final int mmadsdk_lightbox_curtain_background = 0x7f0d004f;
+        public static final int mmadsdk_inline_video_controls_background = 0x7f0d004f;
+        public static final int mmadsdk_lightbox_curtain_background = 0x7f0d0050;
     }
     public static final class dimen {
         public static final int mmadsdk_ad_button_height = 0x7f090015;
@@ -43,23 +43,23 @@ public final class R {
     }
     public static final class drawable {
         public static final int common_full_open_on_phone = 0x7f02009b;
-        public static final int mmadsdk_close = 0x7f020179;
-        public static final int mmadsdk_expand_collapse = 0x7f02017a;
-        public static final int mmadsdk_fullscreen = 0x7f02017b;
-        public static final int mmadsdk_inline_video_progress_bar = 0x7f02017c;
-        public static final int mmadsdk_lightbox_down = 0x7f02017d;
-        public static final int mmadsdk_lightbox_replay = 0x7f02017e;
-        public static final int mmadsdk_mute_unmute = 0x7f02017f;
-        public static final int mmadsdk_no_sound = 0x7f020180;
-        public static final int mmadsdk_pause = 0x7f020181;
-        public static final int mmadsdk_play = 0x7f020182;
-        public static final int mmadsdk_play_pause = 0x7f020183;
-        public static final int mmadsdk_sound = 0x7f020184;
-        public static final int mmadsdk_unfullscreen = 0x7f020185;
-        public static final int mmadsdk_vast_close = 0x7f020186;
-        public static final int mmadsdk_vast_opacity = 0x7f020187;
-        public static final int mmadsdk_vast_replay = 0x7f020188;
-        public static final int mmadsdk_vast_skip = 0x7f020189;
+        public static final int mmadsdk_close = 0x7f02017b;
+        public static final int mmadsdk_expand_collapse = 0x7f02017c;
+        public static final int mmadsdk_fullscreen = 0x7f02017d;
+        public static final int mmadsdk_inline_video_progress_bar = 0x7f02017e;
+        public static final int mmadsdk_lightbox_down = 0x7f02017f;
+        public static final int mmadsdk_lightbox_replay = 0x7f020180;
+        public static final int mmadsdk_mute_unmute = 0x7f020181;
+        public static final int mmadsdk_no_sound = 0x7f020182;
+        public static final int mmadsdk_pause = 0x7f020183;
+        public static final int mmadsdk_play = 0x7f020184;
+        public static final int mmadsdk_play_pause = 0x7f020185;
+        public static final int mmadsdk_sound = 0x7f020186;
+        public static final int mmadsdk_unfullscreen = 0x7f020187;
+        public static final int mmadsdk_vast_close = 0x7f020188;
+        public static final int mmadsdk_vast_opacity = 0x7f020189;
+        public static final int mmadsdk_vast_replay = 0x7f02018a;
+        public static final int mmadsdk_vast_skip = 0x7f02018b;
     }
     public static final class id {
         public static final int adjust_height = 0x7f0f006d;
@@ -89,7 +89,7 @@ public final class R {
         public static final int common_open_on_phone = 0x7f080046;
         public static final int common_signin_button_text = 0x7f080047;
         public static final int common_signin_button_text_long = 0x7f080048;
-        public static final int mmadsdk_app_name = 0x7f0800b5;
+        public static final int mmadsdk_app_name = 0x7f0800b9;
     }
     public static final class style {
         public static final int Theme_IAPTheme = 0x7f0a0142;

@@ -47,6 +47,11 @@
     <string name="terms_of_use">使用條款</string>
     <string name="remove_ad">幹掉廣告</string>
 
+    <string name="dialog_title">試用活動</string>
+    <string name="btn_bottom">暫不考慮</string>
+    <string name="content">感謝您的使用，我們想邀請你免費體驗PRO專業版（無廣告）7天</string>
+    <string name="btn_top">立即參與</string>
+
 
 
 

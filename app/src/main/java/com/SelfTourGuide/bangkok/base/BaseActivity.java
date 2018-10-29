@@ -180,6 +180,7 @@ public class BaseActivity extends Activity {
         MobclickAgent.onPause(this);
         // 页面结束埋点，需要使用Activity的引用，以便代码能够统计到具体页面名
 //        StatService.onPause(this);
+
     }
 
 

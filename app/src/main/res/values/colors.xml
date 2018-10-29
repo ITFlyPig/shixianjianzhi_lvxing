@@ -24,4 +24,5 @@
     <color name="itempressbg">#f3f3f3</color>
     <color name="alpha">#00000000</color>
     <color name="contentcolor">#888888</color>
+    <color name="appcolor">#0499ea</color>
 </resources>

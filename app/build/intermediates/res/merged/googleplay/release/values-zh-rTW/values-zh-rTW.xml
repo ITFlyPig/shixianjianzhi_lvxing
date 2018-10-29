@@ -25,6 +25,8 @@
     <string name="all">全部</string>
     <string name="app_name">曼谷旅遊攻略</string>
     <string name="attractions">景點</string>
+    <string name="btn_bottom">暫不考慮</string>
+    <string name="btn_top">立即參與</string>
     <string name="call">撥打電話</string>
     <string name="cance">取消</string>
     <string name="cancecollection">取消收藏</string>
@@ -85,7 +87,9 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"在手機上開啟"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"登入"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"使用 Google 帳戶登入"</string>
+    <string name="content">感謝您的使用，我們想邀請你免費體驗PRO專業版（無廣告）7天</string>
     <string name="delete">删除</string>
+    <string name="dialog_title">試用活動</string>
     <string name="doorprice">門票</string>
     <string name="downtitle">免費幹掉廣告</string>
     <string name="entertainment">娛樂</string>
